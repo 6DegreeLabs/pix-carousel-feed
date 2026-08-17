@@ -33,8 +33,22 @@ def main() -> None:
         fail("new-posts.json must be a JSON list")
 
     existing = {p["id"] for p in feed["posts"]}
-    seen_content = {(p["title"], p["brand"]) for p in feed["posts"]}
     added, skipped = [], []
+
+    def pdate(post):
+        return datetime.fromisoformat(post["date"].replace("Z", "+00:00"))
+
+    def find_resend_original(post, pool):
+        # Re-sends (e.g. Today's Pix) reuse title+brand on nearby days. Recurring
+        # titles like "Weekly top 3!" repeat weekly, so only match within 4 days.
+        for other in pool:
+            if other is post or other.get("duplicate_send"):
+                continue
+            if (other["title"], other["brand"]) != (post["title"], post["brand"]):
+                continue
+            if abs((pdate(post) - pdate(other)).days) <= 4:
+                return other
+        return None
 
     for p in new_posts:
         for key in ("id", "title", "date", "tags", "brand"):
@@ -43,15 +57,16 @@ def main() -> None:
         if p["id"] in existing:
             skipped.append((p["id"], "already present"))
             continue
-        if (p["title"], p["brand"]) in seen_content:
-            p.pop("text", None)
+        original = find_resend_original(p, feed["posts"] + added)
+        if original is not None:
             p["duplicate_send"] = True
+            if "text" not in p and "text" in original:
+                p["text"] = original["text"]
         if p["brand"].endswith(PREMIUM_SUFFIX):
             p.pop("text", None)
         if "text" in p and not p["text"].strip():
             fail(f"post {p['id']} has empty text — omit the key instead")
         added.append(p)
-        seen_content.add((p["title"], p["brand"]))
 
     now = datetime.now(UTC)
     cutoff = now - timedelta(days=WINDOW_DAYS)
