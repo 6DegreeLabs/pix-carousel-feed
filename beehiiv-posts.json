@@ -1,10 +1,10 @@
 {
  "schemaVersion": 1,
- "generatedAt": "2026-08-17T21:33:08Z",
+ "generatedAt": "2026-08-18T17:49:26Z",
  "window": {
   "days": 30,
-  "from": "2026-07-18",
-  "to": "2026-08-17"
+  "from": "2026-07-19",
+  "to": "2026-08-18"
  },
  "publication": {
   "id": "pub_1e9c8050-9d8e-47d9-9535-cc0b149cdce0",
@@ -12,6 +12,38 @@
  },
  "note": "Hosted feed for the Pix carousel tool. Premium (Worth the * +) posts are metadata-only. Refreshed several times daily by a scheduled Claude Code task.",
  "posts": [
+  {
+   "id": "post_45c1bf55-c276-4f87-8c93-b787fb19d559",
+   "title": "We need to chat about one-season wonders 📺",
+   "date": "2026-08-18T15:50:00Z",
+   "tags": [
+    "worth the chat"
+   ],
+   "brand": "worth the chat +",
+   "url": "https://newsletters.pix-media.com/p/we-need-to-chat-about-one-season-wonders"
+  },
+  {
+   "id": "post_cc74b288-5289-4f07-ba41-76af033ab2e1",
+   "title": "The joy of the unexpected",
+   "date": "2026-08-18T11:35:00Z",
+   "tags": [
+    "wellness pix"
+   ],
+   "brand": "wellness pix",
+   "url": "https://newsletters.pix-media.com/p/the-joy-of-the-unexpected-25cc62907cf4ce1d",
+   "text": "The joy of the unexpected — Wellness Pix\n\nAugust 18 is Serendipity Day! We're celebrating the unexpected turns, chance encounters, and little surprises that can lead us somewhere better than we planned. From rediscovering yourself to finding connection in unlikely places, these picks are a reminder to leave a little room for the good you didn't see coming.\n\nRead It, Watch It\n\nWhere'd You Go, Bernadette\nby Maria Semple\n\nSometimes the best path forward is the one you never planned on taking. Where'd You Go, Bernadette follows one woman's unexpected journey back to herself and the daughter determined to find her. Read Maria Semple's witty, heartfelt novel, then watch Cate Blanchett bring Bernadette's creative comeback to life onscreen.\n\nLost & Found & the Unexpected\n\nThese two warmhearted novels are full of chance connections that prove something unexpected can lead you exactly where you need to be.\n\nThe Keeper of Lost Things\nby Ruth Hogan\n\nAnthony Peardew has spent years collecting lost objects and carefully cataloging each one. When his assistant Laura inherits his collection, she takes on his unfinished mission to reunite the objects with their owners—and discovers friendships and new possibilities along the way.\n\nThe Authenticity Project\nby Clare Pooley\n\nIt starts with a small green notebook in which one lonely artist writes the truth about his life, then leaves it for someone else to find. As the notebook passes from stranger to stranger, their honest confessions spark unexpected friendships, community, and even romance. It's a feel-good story about what can happen when we keep ourselves open to new connections.\n\nNow Streaming\n\nThe Dink\n\nJake Johnson stars as Dusty Boyd, a former tennis prodigy whose life takes an unexpected turn when he gets pulled into the fast-growing world of pickleball. Produced by Ben Stiller, this underdog comedy serves up rivalry, second chances, and plenty of laughs—a fitting reminder that sometimes the detour you never saw coming is exactly where the fun begins. Streaming on Apple TV."
+  },
+  {
+   "id": "post_d6cc659f-d5be-4dc4-8e54-93df3204204b",
+   "title": "The 10 best American sitcoms of all time",
+   "date": "2026-08-17T22:35:00Z",
+   "tags": [
+    "today's pix"
+   ],
+   "brand": "today's pix",
+   "url": "https://newsletters.pix-media.com/p/the-10-best-american-sitcoms-of-all-time",
+   "text": "The 10 best American sitcoms of all time — Today's Pix\n\nThis week marks the premiere of Season 18 of It's Always Sunny in Philadelphia, stretching its reign as the longest-running live-action sitcom in American TV history! In its honor, we've curated the best entertainment to pair with it: the 10 most iconic American sitcoms of all time, the best books with morally bankrupt protagonists, and the movies that got Philly right.\n\nComedy Hall of Fame: The 10 Best American Sitcoms of All Time\n\nEvery generation gets a handful of sitcoms that people are still quoting years later. These are the ten that will be remembered forever, from the studio era through streaming.\n\nIt's Always Sunny in Philadelphia\n\nCharlie, Dennis, Mac, Dee, and Frank are awful people who have spent two decades running the worst bar in Philadelphia. Rob McElhenney, Glenn Howerton, and Charlie Day created the show as a $200 proof-of-concept in 2005, and now it's the longest-running live-action sitcom in American TV history. Season 18 is out now!\n\nBad to the Bone: Books With Morally Bankrupt Protagonists\n\nISAIP leans into our fascination with unlikeable main characters, even if they're not as reprehensible as these literary monsters.\n\nFilth\nby Irvine Welsh\n\nBruce Robertson is arguably fiction's most irredeemable character. He's a corrupt, drug-fueled Edinburgh detective who spends more energy sabotaging his colleagues than solving the murder case in front of him. Irvine Welsh's 1998 novel, narrated in part by a literal tapeworm living inside Bruce, is a dark and captivating satire.\n\nBrotherly Love: The Best Movies Set in Philadelphia\n\nBefore Paddy's Pub, Philadelphia already had a cinematic identity of its own. These are the movies that captured the city's grit and attitude.\n\nRocky\n\nA broke, small-time boxer from South Philly gets a once-in-a-lifetime shot at the heavyweight title and turns training into a citywide event. Sylvester Stallone wrote the script in three days and refused to sell it unless he could star. To this day, tourists from around the world visit the steps outside The Art Museum because of Rocky Balboa."
+  },
   {
    "id": "post_f2a6bb71-90d2-4082-a128-bb565e90a373",
    "title": "The best of: enemies-to-lovers, fake dating, & second-chance romance",
@@ -931,26 +963,6 @@
    ],
    "brand": "book pix",
    "text": "This week’s hottest book is 3,000 years old — Book Pix\n\nHi, friend!\n\nWhile some people are racing to the movie theater this weekend, others are racing to the bookstore to experience the very same story. Naturally, I'm talking about The Odyssey! Today, we're taking a look at how Christopher Nolan's star-studded adaptation is breathing new life into Homer's 3,000-year-old epic, along with another beloved book that's enjoying a resurgence thanks to a new adaptation. And because the page-to-screen news just keeps coming, don't miss the latest Reese's Book Club pick turned Apple TV series, Lucky, which premiered this week.\n\nLastly, Thursday's Worth the Read answers one very important question: How did a pants-less hero and a talking cat become my—and seemingly everyone else’s—latest obsession?\n\nYours,\n\nGenevieve\nSenior Books Content Manager @ Pix\nCurrent 📖: The Dungeon Anarchist's Cookbook: Dungeon Crawler Carl Book 3 by Matt Dinniman\n\nYour next book binge obsession is missing pants\n\nFor weeks now, I've been afflicted with something that's completely derailed my productivity and kept me up at all hours. Don't worry, it's not the parasite that's forcing us all to abstain from berries and bagged salad. It's Dungeon Crawler Carl-itis. I can’t stop reading and talking about this bizarre sci-fi series. And I’m far from alone. (Seth MacFarlane is even turning it into a show.)\n\nReader, I'm officially converted. I never thought this series would be for me. On paper, Dungeon Crawler Carl (DCC) sounds like the exact kind of book I'd, um, politely admire from afar. But it won me over anyway, and I think that's the secret to its success: it's not just for gamers or sci-fi/fantasy fans. It's for anyone who needs a laugh, anyone who's found themselves rooting for an underdog during the World Cup, and anyone who could really use a win right now.\n\nBooks of the Moment\n\nSome books define the moment because they’re new, and others because they’ve found their way back into the conversation. From buzzy releases to older titles gaining fresh attention through adaptations, rediscovery, and word of mouth, these are some of the stories everyone’s talking about right now. This week: Old is new!\n\nThe Odyssey\nby Homer\n\nChristopher Nolan’s highly anticipated film adaptation—in theaters now—has everyone racing back to the source material. Sales of The Odyssey—Homer’s 3,000-year-old epic poem—are up 76% percent, proving that the adaptation boost isn’t just reserved for contemporary stories.\n\nLittle House on the Prairie\nby Laura Ingalls Wilder\n\nAnother beloved classic is getting a boost from a new adaptation, as Netflix's Little House on the Prairie introduces a new generation to Laura Ingalls Wilder's timeless story. The series has already been renewed for a second season, making now the perfect time to discover—or fall back in love with—the books that started it all.\n\nPage to Screen\n\nLucky\n\nBased on Marissa Stapley's New York Times bestselling novel and Reese's Book Club pick, Lucky premiered on Apple TV this week, with Anya Taylor-Joy starring as a former con artist forced back into the criminal underworld after one last job goes spectacularly wrong. Hunted by the FBI and a ruthless crime boss, she'll have to rely on every trick she's ever learned to finally escape her past."
-  },
-  {
-   "id": "post_ea230e47-f06c-43a1-80a3-2c6ebd8b3258",
-   "title": "Weekly top 3!",
-   "date": "2026-07-19T11:35:00Z",
-   "tags": [
-    "trending pix"
-   ],
-   "brand": "trending pix",
-   "text": "Weekly top 3! — Trending Pix\n\nHi, friend!\n\nThe World Cup Final is today, but when the final whistle blows, we've got your next watch, read, and listen covered. Here are the top trending TV shows, movies, books, and podcasts of the week.\n\nTop TV & Movies of the Week\n\nWidow’s Bay\nStreaming on Apple TV\n\nThe year's breakout word-of-mouth hit stars Matthew Rhys as the mayor of a coastal island town where superstitions run deep. Fresh off 19 Emmy nominations, now's the perfect time to see what all the buzz is about.\n\nThe Five-Star Weekend\nStreaming on Disney+\n\nJennifer Garner, Chloe Sevigny, Regina Hall, D’Arcy Carden, and Gemma Chan star in this adaptation of Elin Hilderbrand's bestselling novel about a group of friends who reunite for one unforgettable—and transformative—weekend.\n\nAdults\nStreaming on Hulu\n\nFive friends share a house in Queens as they hilariously stumble through adulthood together. Season 2 is coming at the end of August, so now is the perfect time to binge Season 1.\n\nTop Books of the Week\n\nA Founding Mother\nby Stephanie Dray & Laura Kamoie\n\nReese Witherspoon’s July book club pick is a sweeping autofiction of the life and enduring legacy of Abigail Adams, the formidable force behind two presidents.\n\nThe Shampoo Effect\nby Jenny Jackson\n\nThe July Read with Jenna pick follows an ambitious young woman who inserts herself into the social circle of a wealthy seaside town, where everything slowly begins to unravel.\n\nCountry People\nby Daniel Mason\n\nThe July GMA Book Club pick tells the story of an aimless father who moves his family for a fresh start, only to find himself swept into an eccentric community and a mystery where folklore and reality begin to blur.\n\nTop Podcasts of the Week\n\nWhy Won’t You Date Me?\nRelationships\n\nComedian Nicole Byer explores romantic highs, lows, and all the juicy stuff in between. See why it’s Genevieve’s go-to weekly podcast in Insider Pix!\n\nWatch What Crappens\nTV & Film\n\nA daily podcast dedicated to keeping it real (we’re talking both praising and eviscerating) every Bravo reality show (and even House of the Dragon). Read Worth the Listen to see why it should be your companion to “the summer of reality TV”.\n\nGood Hang\nComedy\n\nThis week, Will Ferrell joined old pal and former SNL costar Amy Poehler to chat about his new Netflix series, The Hawk."
-  },
-  {
-   "id": "post_e5451223-1c3d-4597-86c5-a692f2d8f1bd",
-   "title": "The best Spanish and Argentine movies",
-   "date": "2026-07-18T22:35:00Z",
-   "tags": [
-    "today's pix"
-   ],
-   "brand": "today's pix",
-   "text": "The best Spanish and Argentine movies — Today's Pix\n\nHey, friend!\n\nThis weekend, the whole world is locked onto Spain and Argentina as they meet in the World Cup Final at MetLife Stadium. To celebrate this matchup, we’ve curated the best movies, books, and shows both countries have ever produced. Let’s get into it!\n\nThe Best Spanish and Argentine Movies Ever Made\n\nBoth Spain and Argentina have created some of the most influential films in cinema history, racking up Oscar wins, Cannes premieres, and titles that have shaped global film culture. Here are the ones that need to be on your watchlist.\n\nThe Secret in Their Eyes\n\nJuan José Campanella's Oscar-winning thriller remains one of Argentina’s defining crime stories. Benjamín (Ricardo Darín), a retired criminal investigator, writes a novel hoping to find closure for one of his past unsolved murder cases. Together with the help of his former colleague, Irene (Soledad Villamil), can he finally make sense of the past?\n\nThe Books That Built Spain and Argentina's Literary Legacies\n\nFrom the first modern novel to some of the world's most inventive stories, Spain and Argentina have shaped centuries of literature.\n\nDon Quixote by Miguel de Cervantes\n\nAn aging nobleman reads too many romantic tales of chivalry, becomes convinced he's a knight, and recruits a farmer, Sancho Panza, as his squire. Together they stumble through one disaster after another. Written by Miguel de Cervantes in 1605, it's widely considered the first modern novel and still the most influential book to come out of Spain.\n\nBinge-Worthy Shows From Spain and Argentina\n\nSpain and Argentina have produced some of the most bingeable, culture-shifting TV of the last decade. These are the shows that made the rest of the world start paying attention.\n\nMoney Heist\n\nA criminal mastermind known only as The Professor recruits eight strangers to pull off the biggest heist in Spanish history: printing money inside the Royal Mint. It became Netflix's most-watched non-English series ever, and it’s incredibly addicting."
   }
  ]
 }
