@@ -12,10 +12,7 @@
  },
  "caption": "Season 18 of It's Always Sunny in Philadelphia drops this week, making it the longest-running live-action sitcom in American TV history. To celebrate, we picked the show plus books about terrible people and the movies that got Philly right. From Today's Pix.",
  "hashtags": [
-  "ItsAlwaysSunny",
-  "sitcoms",
-  "Philadelphia",
-  "television"
+  "ItsAlwaysSunny"
  ],
  "altText": [
   "Headline reads: The 10 best American sitcoms of all time. Subhead reads: It's Always Sunny turns 18. Here's what to watch, read, and skip.",
@@ -33,5 +30,15 @@
   "slide-05.png",
   "slide-06.png",
   "slide-07.png"
- ]
+ ],
+ "hashtagsOriginal": [
+  "ItsAlwaysSunny",
+  "sitcoms",
+  "Philadelphia",
+  "television"
+ ],
+ "trimNote": "hashtags trimmed to fit X's 280-char limit; dropped: sitcoms, Philadelphia, television",
+ "slackTs": "1787334674.523639",
+ "slackChannel": "C0BQW0S9H1R",
+ "status": "proposed"
 }
