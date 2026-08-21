@@ -40,5 +40,6 @@
  "trimNote": "hashtags trimmed to fit X's 280-char limit; dropped: sitcoms, Philadelphia, television",
  "slackTs": "1787334674.523639",
  "slackChannel": "C0BQW0S9H1R",
- "status": "proposed"
+ "status": "pulled",
+ "pulledReason": "Exported before the shadow-DOM image fix; pick slides showed the wrong art. Republish from the design tool."
 }
