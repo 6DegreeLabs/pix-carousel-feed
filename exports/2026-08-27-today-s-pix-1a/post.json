@@ -8,10 +8,7 @@
  "issue": null,
  "caption": "We're honoring the fictional pups that earned our tears for National Dog Day. The Art of Racing in the Rain sees life through Enzo the dog's eyes. Marley & Me follows the world's worst dog teaching unconditional love. Lassie ran for 20 years as the symbol of loyalty.",
  "hashtags": [
-  "NationalDogDay",
-  "DogMovies",
-  "GoodBoys",
-  "DogLovers"
+  "DogMovies"
  ],
  "altText": [
   "Newsletter header featuring the title 'The best dogs in entertainment history' with decorative imagery",
@@ -30,5 +27,15 @@
   "slide-06.png",
   "slide-07.png",
   "slide-08.png"
- ]
+ ],
+ "hashtagsOriginal": [
+  "NationalDogDay",
+  "DogMovies",
+  "GoodBoys",
+  "DogLovers"
+ ],
+ "trimNote": "trimmed to fit X's 280 limit; dropped: NationalDogDay, GoodBoys, DogLovers",
+ "slackTs": "1787856267.362849",
+ "slackChannel": "C0BQW0S9H1R",
+ "status": "proposed"
 }
