@@ -34,11 +34,11 @@
  "bufferPostIds": {
   "instagram": "6a908caa479d79c4495ecff5"
  },
- "queuedAt": "2026-08-27T19:14:50Z",
+ "queuedAt": "2026-08-27T19:18:02Z",
  "queuedTo": [
   {
    "channel": "instagram (likewise)",
-   "when": "Fri Aug 28, 2026 at 7:48 AM PDT"
+   "when": "Thu Aug 27, 2026 at 12:18 PM PDT (published immediately)"
   }
  ],
  "slideOrder": [
@@ -51,5 +51,8 @@
   "slide-08.png",
   "slide-07.png"
  ],
- "notes": "Instagram only, per Ali. X/Threads/Bluesky not queued; status left at proposed. slides[] file order does not match the badges baked into the art: slide-07 is 8/8, slide-08 is 7/8 -- slideOrder above is the corrected display order. altText[] covers only 6 of 8 slides and is misaligned with slides[]; alt text was rewritten per-slide for this post."
+ "notes": "Instagram only, published immediately per Ali (shareNow, not queued). X/Threads/Bluesky NOT queued; status left at proposed. slides[] file order does not match the badges baked into the art: slide-07 is 8/8, slide-08 is 7/8 -- slideOrder above is the corrected display order used for this post. altText[] covers only 6 of 8 slides and is misaligned with slides[]; alt text was rewritten per-slide for this post.",
+ "externalLinks": {
+  "instagram": "https://www.instagram.com/p/DcjhRhqmD0c/"
+ }
 }
