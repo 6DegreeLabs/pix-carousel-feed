@@ -1,0 +1,34 @@
+{
+ "schemaVersion": 1,
+ "createdAt": "2026-08-27T18:38:48.352Z",
+ "posted": false,
+ "brand": "today's pix",
+ "templateSet": "1a",
+ "aspect": "4:5",
+ "issue": null,
+ "caption": "We're honoring the fictional pups that earned our tears for National Dog Day. The Art of Racing in the Rain sees life through Enzo the dog's eyes. Marley & Me follows the world's worst dog teaching unconditional love. Lassie ran for 20 years as the symbol of loyalty.",
+ "hashtags": [
+  "NationalDogDay",
+  "DogMovies",
+  "GoodBoys",
+  "DogLovers"
+ ],
+ "altText": [
+  "Newsletter header featuring the title 'The best dogs in entertainment history' with decorative imagery",
+  "Movie poster for The Art of Racing in the Rain showing a golden retriever alongside Milo Ventimiglia",
+  "Book cover of Marley & Me by John Grogan featuring a yellow Labrador retriever",
+  "Vintage television still from Lassie showing the iconic collie with young Jeff",
+  "Collection of dog-themed entertainment titles arranged in a grid layout",
+  "Call to action encouraging readers to explore more picks in the Pix newsletter"
+ ],
+ "slides": [
+  "slide-01.png",
+  "slide-02.png",
+  "slide-03.png",
+  "slide-04.png",
+  "slide-05.png",
+  "slide-06.png",
+  "slide-07.png",
+  "slide-08.png"
+ ]
+}
