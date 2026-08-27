@@ -30,5 +30,26 @@
  ],
  "slackTs": "1787857668.151729",
  "slackChannel": "C0BQW0S9H1R",
- "status": "proposed"
+ "status": "proposed",
+ "bufferPostIds": {
+  "instagram": "6a908caa479d79c4495ecff5"
+ },
+ "queuedAt": "2026-08-27T19:14:50Z",
+ "queuedTo": [
+  {
+   "channel": "instagram (likewise)",
+   "when": "Fri Aug 28, 2026 at 7:48 AM PDT"
+  }
+ ],
+ "slideOrder": [
+  "slide-01.png",
+  "slide-02.png",
+  "slide-03.png",
+  "slide-04.png",
+  "slide-05.png",
+  "slide-06.png",
+  "slide-08.png",
+  "slide-07.png"
+ ],
+ "notes": "Instagram only, per Ali. X/Threads/Bluesky not queued; status left at proposed. slides[] file order does not match the badges baked into the art: slide-07 is 8/8, slide-08 is 7/8 -- slideOrder above is the corrected display order. altText[] covers only 6 of 8 slides and is misaligned with slides[]; alt text was rewritten per-slide for this post."
 }
