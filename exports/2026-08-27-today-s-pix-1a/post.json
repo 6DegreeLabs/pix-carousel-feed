@@ -30,7 +30,7 @@
  ],
  "slackTs": "1787857668.151729",
  "slackChannel": "C0BQW0S9H1R",
- "status": "proposed",
+ "status": "pulled",
  "bufferPostIds": {
   "instagram": "6a908caa479d79c4495ecff5"
  },
@@ -51,7 +51,7 @@
   "slide-08.png",
   "slide-07.png"
  ],
- "notes": "Instagram only, published immediately per Ali (shareNow, not queued). X/Threads/Bluesky NOT queued; status left at proposed. slides[] file order does not match the badges baked into the art: slide-07 is 8/8, slide-08 is 7/8 -- slideOrder above is the corrected display order used for this post. altText[] covers only 6 of 8 slides and is misaligned with slides[]; alt text was rewritten per-slide for this post.",
+ "notes": "Instagram only, published immediately per Ali (shareNow, not queued) -- see bufferPostIds and externalLinks. X/Threads/Bluesky NOT queued and never will be: status set to pulled on 2026-09-04 per Ali so the publish job stops picking this up. slides[] file order does not match the badges baked into the art: slide-07 is 8/8, slide-08 is 7/8 -- slideOrder above is the corrected display order used for this post. altText[] covers only 6 of 8 slides and is misaligned with slides[]; alt text was rewritten per-slide for this post.",
  "externalLinks": {
   "instagram": "https://www.instagram.com/p/DcjhRhqmD0c/"
  }
