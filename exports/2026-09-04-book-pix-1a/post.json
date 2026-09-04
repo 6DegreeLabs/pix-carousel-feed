@@ -1,8 +1,8 @@
 {
  "schemaVersion": 1,
  "createdAt": "2026-09-04T21:36:14.584Z",
- "posted": false,
- "status": "proposed",
+ "posted": true,
+ "status": "posted",
  "brand": "book pix",
  "templateSet": "1a",
  "aspect": "4:5 (1080×1350)",
@@ -34,5 +34,16 @@
   "slide-05.png"
  ],
  "slackTs": "1788557969.313809",
- "slackChannel": "C0BQW0S9H1R"
+ "slackChannel": "C0BQW0S9H1R",
+ "bufferPostIds": {
+  "instagram": "6a9b3db7baae531ed5e8e8b6"
+ },
+ "queuedAt": "2026-09-04T21:52:55Z",
+ "queuedTo": [
+  {
+   "channel": "instagram (likewise)",
+   "when": "Fri Sep 4, 2026 at 9:05 PM PDT"
+  }
+ ],
+ "notes": "Instagram only per Ali. X/Threads/Bluesky not queued. Queued to the Buffer slot (addToQueue), not shared immediately. All 5 slides included."
 }
