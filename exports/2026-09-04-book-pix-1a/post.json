@@ -2,6 +2,7 @@
  "schemaVersion": 1,
  "createdAt": "2026-09-04T20:51:50.428Z",
  "posted": false,
+ "status": "proposed",
  "brand": "book pix",
  "templateSet": "1a",
  "aspect": "1:1 (1080×1080)",
@@ -10,7 +11,9 @@
   "title": "The “Queen of Contemporary Horror” is back!",
   "url": "https://newsletters.pix-media.com/p/the-queen-of-contemporary-horror-is-back"
  },
- "caption": "Rachel Harrison traps a bridesmaid in a deadly time loop. Kazumasa Hayami turns bookstore burnout into something profound. Kiss Slay Replay and How Can My Manager Be So Stupid? prove horror works best when you can't escape. From Bookmarks.",
+ "caption": "The best new books this week! Rachel Harrison delivers a career-best horror, and an utterly delightful Japanese bestseller has been making waves.",
+ "captionOriginal": "Rachel Harrison traps a bridesmaid in a deadly time loop. Kazumasa Hayami turns bookstore burnout into something profound. Kiss Slay Replay and How Can My Manager Be So Stupid? prove horror works best when you can't escape. From Bookmarks.",
+ "captionSource": "Replaced by Ali 2026-09-04, overriding the content-team export caption.",
  "hashtags": [
   "horror",
   "books",
@@ -31,5 +34,7 @@
   "slide-03.png",
   "slide-04.png",
   "slide-05.png"
- ]
+ ],
+ "slackTs": "1788556650.741669",
+ "slackChannel": "C0BQW0S9H1R"
 }
