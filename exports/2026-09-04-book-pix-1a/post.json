@@ -1,0 +1,35 @@
+{
+ "schemaVersion": 1,
+ "createdAt": "2026-09-04T20:51:50.428Z",
+ "posted": false,
+ "brand": "book pix",
+ "templateSet": "1a",
+ "aspect": "1:1 (1080×1080)",
+ "issue": {
+  "id": "post_f113b13c-f631-4eb0-aeba-fb533c181289",
+  "title": "The “Queen of Contemporary Horror” is back!",
+  "url": "https://newsletters.pix-media.com/p/the-queen-of-contemporary-horror-is-back"
+ },
+ "caption": "Rachel Harrison traps a bridesmaid in a deadly time loop. Kazumasa Hayami turns bookstore burnout into something profound. Kiss Slay Replay and How Can My Manager Be So Stupid? prove horror works best when you can't escape. From Bookmarks.",
+ "hashtags": [
+  "horror",
+  "books",
+  "contemporary",
+  "timeloop"
+ ],
+ "altText": [
+  "Text reads: Horror that's fun, burnout that's real. From deadly wedding loops to nightmare bosses, these reads nail the horror.",
+  "Pull quote from Publishers Weekly: Horror fans will have a blast with this fun, bloody romp.",
+  "Text explains why it's worth your time: Rachel Harrison traps a bridesmaid in a time loop with a masked killer. Kazumasa Hayami turns bookstore burnout into something profound.",
+  "Book recommendation for Kiss Slay Replay by Rachel Harrison. Worth reading because it turns wedding massacre into Groundhog Day horror—survive, die, repeat.",
+  "Stat: 100 yrs after it was written, a new E.B. White book finally hits shelves. Vivid moment: Willa survives a masked killer's massacre at her best friends' wedding, only to wake up on the morning of the wedding again.",
+  "Call to action: From the Bookmarks newsletter—horror worth your time."
+ ],
+ "slides": [
+  "slide-01.png",
+  "slide-02.png",
+  "slide-03.png",
+  "slide-04.png",
+  "slide-05.png"
+ ]
+}
