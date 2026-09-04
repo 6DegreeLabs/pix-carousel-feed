@@ -1,32 +1,29 @@
 {
  "schemaVersion": 1,
- "createdAt": "2026-09-04T20:51:50.428Z",
+ "createdAt": "2026-09-04T21:36:14.584Z",
  "posted": false,
- "status": "proposed",
  "brand": "book pix",
  "templateSet": "1a",
- "aspect": "1:1 (1080×1080)",
+ "aspect": "4:5 (1080×1350)",
  "issue": {
   "id": "post_f113b13c-f631-4eb0-aeba-fb533c181289",
   "title": "The “Queen of Contemporary Horror” is back!",
   "url": "https://newsletters.pix-media.com/p/the-queen-of-contemporary-horror-is-back"
  },
  "caption": "The best new books this week! Rachel Harrison delivers a career-best horror, and an utterly delightful Japanese bestseller has been making waves.",
- "captionOriginal": "Rachel Harrison traps a bridesmaid in a deadly time loop. Kazumasa Hayami turns bookstore burnout into something profound. Kiss Slay Replay and How Can My Manager Be So Stupid? prove horror works best when you can't escape. From Bookmarks.",
- "captionSource": "Replaced by Ali 2026-09-04, overriding the content-team export caption.",
  "hashtags": [
   "horror",
-  "books",
-  "contemporary",
-  "timeloop"
+  "timeloop",
+  "bookstagram",
+  "newbooks"
  ],
  "altText": [
-  "Text reads: Horror that's fun, burnout that's real. From deadly wedding loops to nightmare bosses, these reads nail the horror.",
-  "Pull quote from Publishers Weekly: Horror fans will have a blast with this fun, bloody romp.",
-  "Text explains why it's worth your time: Rachel Harrison traps a bridesmaid in a time loop with a masked killer. Kazumasa Hayami turns bookstore burnout into something profound.",
-  "Book recommendation for Kiss Slay Replay by Rachel Harrison. Worth reading because it turns wedding massacre into Groundhog Day horror—survive, die, repeat.",
-  "Stat: 100 yrs after it was written, a new E.B. White book finally hits shelves. Vivid moment: Willa survives a masked killer's massacre at her best friends' wedding, only to wake up on the morning of the wedding again.",
-  "Call to action: From the Bookmarks newsletter—horror worth your time."
+  "Text reads: A wedding massacre on repeat: Horror's new nightmare. Below: By Pix, 4 min read.",
+  "Quote from Publishers Weekly: Horror fans will have a blast with this fun, bloody romp. Attribution reads: Publishers Weekly, on Kiss Slay Replay.",
+  "Text explains why Kiss Slay Replay is worth reading, followed by supporting detail about the Japanese bookstore comedy.",
+  "Two rows: Read Kiss Slay Replay — time-loop horror at its bloodiest. Read How Can My Manager Be So Stupid? — workplace comedy.",
+  "Statistic: 100 yrs after E.B. White wrote it, a new book is finally hitting shelves. Moment: Willa survives a masked killer's massacre at her best friends' wedding, only to wake up trapped in the same deadly day again.",
+  "Pix editors recommend Kiss Slay Replay by Rachel Harrison. Worth reading because Harrison delivers a bloody, fun time-loop horror that critics call a career best. Call to action: From the Bookmarks newsletter, where horror meets humor."
  ],
  "slides": [
   "slide-01.png",
@@ -34,7 +31,5 @@
   "slide-03.png",
   "slide-04.png",
   "slide-05.png"
- ],
- "slackTs": "1788556650.741669",
- "slackChannel": "C0BQW0S9H1R"
+ ]
 }
