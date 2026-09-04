@@ -1,7 +1,9 @@
 {
  "schemaVersion": 1,
  "createdAt": "2026-08-21T20:48:06.518Z",
- "posted": false,
+ "posted": true,
+ "status": "posted",
+ "statusNote": "Posted manually outside the pipeline; status reconciled 2026-09-04 so the propose phase stops picking it up. No bufferPostIds recorded.",
  "brand": "tv & movie pix",
  "templateSet": "1a",
  "aspect": "1:1 (1080×1080)",
