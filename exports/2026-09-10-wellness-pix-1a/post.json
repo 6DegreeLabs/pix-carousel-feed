@@ -49,8 +49,13 @@
  "queuedTo": [
   {
    "channel": "instagram (likewise)",
-   "when": "Fri Sep 11, 2026 at 7:48 AM PDT"
+   "when": "published live Thu Sep 10, 2026 at 2:00 PM PDT"
   }
  ],
- "publishNotes": "Instagram only, per Ali. X and Bluesky skipped: caption is 324 chars (378 with hashtags), over X's 280 and Bluesky's 300, and the caption is team-owned so it was not rewritten. altText replaced: the original 6 entries described a different slide set (body/stat slides) and did not match these 7 slides; originals kept in altTextOriginal."
+ "publishNotes": "Instagram only, per Ali, and published live with shareNow at Ali's explicit request rather than left in the queue. X and Bluesky skipped: caption is 324 chars (378 with hashtags), over X's 280 and Bluesky's 300, and the caption is team-owned so it was not rewritten. altText replaced: the original 6 entries described a different slide set (body/stat slides) and did not match these 7 slides; originals kept in altTextOriginal.",
+ "shareMode": "shareNow",
+ "postedAt": "2026-09-10T21:00:26Z",
+ "externalLinks": {
+  "instagram": "https://www.instagram.com/p/DdHwHQ8I0S8/"
+ }
 }
