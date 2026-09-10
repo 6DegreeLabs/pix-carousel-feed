@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "createdAt": "2026-09-10T20:20:54.152Z",
- "posted": false,
+ "posted": true,
  "brand": "wellness pix",
  "templateSet": "1a",
  "aspect": "4:5 (1080×1350)",
@@ -14,12 +14,13 @@
   "presencematters"
  ],
  "altText": [
-  "Headline slide reading Clear your mind with these thoughtful picks with subheading Guided meditations, slow stories, and routines that reward attention",
-  "Quote slide reading Their search becomes a funny, romantic reflection on being present, attributed to on The Map of Tiny Perfect Things",
-  "Body slide explaining these picks press pause on notifications and errands with works that celebrate paying attention to little things",
-  "Pick slide recommending The Map of Tiny Perfect Things, worth watching because two time-loop travelers catalog small easily missed moments",
-  "Stat slide showing 20 min or less for most mindful in minutes guided meditation sessions",
-  "End slide with call to action reading More thoughtful picks in our latest culture newsletter"
+  "Headline slide reading Clear your mind with these thoughtful picks with subheading Guided meditations, slow stories, and routines that reward attention, over cover art for The Map of Tiny Perfect Things",
+  "Quote slide reading Their search becomes a funny, romantic reflection on being present, on The Map of Tiny Perfect Things",
+  "Pick slide, Pix editors recommend The Map of Tiny Perfect Things on Prime Video, worth watching because two time-loop travelers catalog small, easily missed moments that make their town extraordinary",
+  "Pick slide, Pix editors recommend Peak Mind by Amishi P. Jha, worth reading because neuroscientist Jha introduces short daily practices to strengthen focus and bring wandering minds back",
+  "Pick slide, Pix editors recommend Walk With Me, a documentary, worth watching because quiet daily rhythms turn the film into a meditation of its own, narrated by Benedict Cumberbatch",
+  "TL;DR slide listing Watch The Map of Tiny Perfect Things, Read Peak Mind, and Watch Walk With Me with one-line reasons",
+  "End slide reading More thoughtful picks in our latest Wellness Pix newsletter with a Link in bio button"
  ],
  "slides": [
   "slide-01.png",
@@ -32,5 +33,24 @@
  ],
  "slackTs": "1789071893.831319",
  "slackChannel": "C0BQW0S9H1R",
- "status": "proposed"
+ "status": "posted",
+ "altTextOriginal": [
+  "Headline slide reading Clear your mind with these thoughtful picks with subheading Guided meditations, slow stories, and routines that reward attention",
+  "Quote slide reading Their search becomes a funny, romantic reflection on being present, attributed to on The Map of Tiny Perfect Things",
+  "Body slide explaining these picks press pause on notifications and errands with works that celebrate paying attention to little things",
+  "Pick slide recommending The Map of Tiny Perfect Things, worth watching because two time-loop travelers catalog small easily missed moments",
+  "Stat slide showing 20 min or less for most mindful in minutes guided meditation sessions",
+  "End slide with call to action reading More thoughtful picks in our latest culture newsletter"
+ ],
+ "bufferPostIds": {
+  "instagram": "6aa3196248fd860ab1fa8426"
+ },
+ "queuedAt": "2026-09-10T20:56:21.074245Z",
+ "queuedTo": [
+  {
+   "channel": "instagram (likewise)",
+   "when": "Fri Sep 11, 2026 at 7:48 AM PDT"
+  }
+ ],
+ "publishNotes": "Instagram only, per Ali. X and Bluesky skipped: caption is 324 chars (378 with hashtags), over X's 280 and Bluesky's 300, and the caption is team-owned so it was not rewritten. altText replaced: the original 6 entries described a different slide set (body/stat slides) and did not match these 7 slides; originals kept in altTextOriginal."
 }
