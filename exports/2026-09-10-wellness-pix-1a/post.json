@@ -1,0 +1,33 @@
+{
+ "schemaVersion": 1,
+ "createdAt": "2026-09-10T20:20:54.152Z",
+ "posted": false,
+ "brand": "wellness pix",
+ "templateSet": "1a",
+ "aspect": "4:5 (1080×1350)",
+ "issue": null,
+ "caption": "Press pause on the notifications with picks that celebrate paying attention. The Map of Tiny Perfect Things follows time-loop travelers cataloging small moments, Peak Mind offers focus-strengthening practices, and Walk With Me turns daily rhythms into meditation. More thoughtful picks in our latest edition of Wellness Pix.",
+ "hashtags": [
+  "mindfulness",
+  "slowliving",
+  "meditation",
+  "presencematters"
+ ],
+ "altText": [
+  "Headline slide reading Clear your mind with these thoughtful picks with subheading Guided meditations, slow stories, and routines that reward attention",
+  "Quote slide reading Their search becomes a funny, romantic reflection on being present, attributed to on The Map of Tiny Perfect Things",
+  "Body slide explaining these picks press pause on notifications and errands with works that celebrate paying attention to little things",
+  "Pick slide recommending The Map of Tiny Perfect Things, worth watching because two time-loop travelers catalog small easily missed moments",
+  "Stat slide showing 20 min or less for most mindful in minutes guided meditation sessions",
+  "End slide with call to action reading More thoughtful picks in our latest culture newsletter"
+ ],
+ "slides": [
+  "slide-01.png",
+  "slide-02.png",
+  "slide-03.png",
+  "slide-04.png",
+  "slide-05.png",
+  "slide-06.png",
+  "slide-07.png"
+ ]
+}
