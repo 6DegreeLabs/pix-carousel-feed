@@ -1,0 +1,37 @@
+{
+ "schemaVersion": 1,
+ "createdAt": "2026-09-14T20:19:24.948Z",
+ "posted": false,
+ "brand": "today's pix",
+ "templateSet": "1a",
+ "aspect": "4:5 (1080×1350)",
+ "issue": {
+  "id": "post_137b8e90-66f6-4c63-952c-279708059cdc",
+  "title": "The best TV shows of 2026!",
+  "url": "https://newsletters.pix-media.com/p/the-best-tv-shows-of-2026"
+ },
+ "caption": "The Emmys air tonight, but nominations don't tell the whole story. We picked 3 shows actually worth watching—from Hacks' final season to Widow's Bay. Whether voters agreed or not, these are the streaming picks that deserve your time.",
+ "hashtags": [
+  "Emmys2026",
+  "TVshows",
+  "streaming",
+  "Hacks",
+  "Industry"
+ ],
+ "altText": [
+  "Slide 1: Headline reads '10 Emmy-nominated shows actually worth watching' with subheading about Hacks to Industry and what's good whether voters agreed or not",
+  "Slide 2: Pull quote reading 'It's one of the rare shows that accurately portrays stand-up comedy' attributed to Pix editors on Hacks",
+  "Slide 3: Body text explaining the Emmys air Monday but nominations don't dictate your watchlist, with details about catching up on HBO's Hacks or discovering Apple's Widow's Bay",
+  "Slide 4: Three-row list showing Watch Hacks, Watch Widow's Bay, Watch Industry with brief descriptions of each show",
+  "Slide 5: Statistic showing 60+ shows nominated for Emmys this year but only a handful truly deserve your time",
+  "Slide 6: Recommendation card for Hacks on HBO Max, worth watching because five seasons proved comedy can be hilarious, heartfelt, and remarkably smart about stand-up, recommended by Pix editors"
+ ],
+ "slides": [
+  "slide-01.png",
+  "slide-02.png",
+  "slide-03.png",
+  "slide-04.png",
+  "slide-05.png",
+  "slide-06.png"
+ ]
+}
