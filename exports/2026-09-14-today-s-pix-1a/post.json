@@ -1,8 +1,8 @@
 {
  "schemaVersion": 1,
  "createdAt": "2026-09-14T20:19:24.948Z",
- "posted": false,
- "status": "proposed",
+ "posted": true,
+ "status": "posted",
  "brand": "today's pix",
  "templateSet": "1a",
  "aspect": "4:5 (1080×1350)",
@@ -35,5 +35,25 @@
   "slide-06.png"
  ],
  "slackTs": "1789418133.247299",
- "slackChannel": "C0BQW0S9H1R"
+ "slackChannel": "C0BQW0S9H1R",
+ "bufferPostIds": {
+  "threads": "6aa85bd336516e74e67bb041",
+  "twitter": "6aa85d522029c34418211776",
+  "bluesky": "6aa85d5f01c791e02938736b"
+ },
+ "queuedAt": "2026-09-14T20:47:29Z",
+ "queuedTo": [
+  {
+   "channel": "threads (pixmedia_inc)",
+   "when": "published live Mon Sep 14, 2026 at 1:41 PM PDT"
+  },
+  {
+   "channel": "x (pixmedia_inc)",
+   "when": "published live Mon Sep 14, 2026 at 1:47 PM PDT"
+  },
+  {
+   "channel": "bluesky (pixmedia.bsky.social)",
+   "when": "published live Mon Sep 14, 2026 at 1:47 PM PDT"
+  }
+ ]
 }
