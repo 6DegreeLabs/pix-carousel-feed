@@ -39,7 +39,8 @@
  "bufferPostIds": {
   "threads": "6aa85bd336516e74e67bb041",
   "twitter": "6aa85d522029c34418211776",
-  "bluesky": "6aa85d5f01c791e02938736b"
+  "bluesky": "6aa85d5f01c791e02938736b",
+  "instagram": "6aa860ec01c791e02938dd88"
  },
  "queuedAt": "2026-09-14T20:47:29Z",
  "queuedTo": [
@@ -54,6 +55,10 @@
   {
    "channel": "bluesky (pixmedia.bsky.social)",
    "when": "published live Mon Sep 14, 2026 at 1:47 PM PDT"
+  },
+  {
+   "channel": "instagram (pixmedia_inc)",
+   "when": "published live Mon Sep 14, 2026 at 2:03 PM PDT"
   }
  ]
 }
