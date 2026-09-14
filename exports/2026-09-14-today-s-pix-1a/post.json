@@ -2,6 +2,7 @@
  "schemaVersion": 1,
  "createdAt": "2026-09-14T20:19:24.948Z",
  "posted": false,
+ "status": "proposed",
  "brand": "today's pix",
  "templateSet": "1a",
  "aspect": "4:5 (1080×1350)",
@@ -15,8 +16,7 @@
   "Emmys2026",
   "TVshows",
   "streaming",
-  "Hacks",
-  "Industry"
+  "Hacks"
  ],
  "altText": [
   "Slide 1: Headline reads '10 Emmy-nominated shows actually worth watching' with subheading about Hacks to Industry and what's good whether voters agreed or not",
@@ -33,5 +33,7 @@
   "slide-04.png",
   "slide-05.png",
   "slide-06.png"
- ]
+ ],
+ "slackTs": "1789418133.247299",
+ "slackChannel": "C0BQW0S9H1R"
 }
