@@ -1,10 +1,10 @@
 {
  "schemaVersion": 1,
- "generatedAt": "2026-09-10T19:36:48Z",
+ "generatedAt": "2026-09-14T18:37:11Z",
  "window": {
   "days": 30,
-  "from": "2026-08-11",
-  "to": "2026-09-10"
+  "from": "2026-08-15",
+  "to": "2026-09-14"
  },
  "publication": {
   "id": "pub_1e9c8050-9d8e-47d9-9535-cc0b149cdce0",
@@ -12,6 +12,180 @@
  },
  "note": "Hosted feed for the Pix carousel tool. Premium (Worth the * +) posts are metadata-only. Refreshed several times daily by a scheduled Claude Code task.",
  "posts": [
+  {
+   "id": "post_e87e4954-4a44-4a94-81eb-b3687b7cfd25",
+   "title": "Sci-fi & fantasy shows premiering soon",
+   "date": "2026-09-14T17:50:00Z",
+   "tags": [
+    "sci-fi & fantasy pix"
+   ],
+   "brand": "sci-fi & fantasy pix",
+   "url": "https://newsletters.pix-media.com/p/sci-fi-fantasy-shows-premiering-soon",
+   "text": "Sci-fi & fantasy shows premiering soon\n\nHi, friend!\n\nPAX West just wrapped here in Seattle, which means thousands of gamers, cosplayers, and wonderfully committed pop culture fans have cleared out of downtown. I didn’t make it this year (sad!), but having that much fandom in my city always reminds me how fun it is to be a nerd. Luckily, there’s plenty more to get excited about this month, from a video game adaptation hitting streaming to a new animated film from the director behind Puss in Boots: The Last Wish and so much more.\n\nKeep reading to discover the most anticipated science fiction and fantasy movies, shows, and books releasing this month!\n\nYours,\nJohn\nFilm & Television Content Manager @ Pix\nCurrent 📺: Game of Thrones\n\nNext in the Queue-niverse: Upcoming Releases\n\nYour watchlist and TBR are about to get a little longer. Here are our handpicked sci-fi and fantasy releases worth having on your radar.\n\nGolden Axe\n\nStreaming September 16 on Paramount+\n\nLegendary warriors Ax Battler, Tyris Flare, and Gilius Thunderhead reunite to save Yuria from Death Adder, an evil giant who returns from the dead. Based on SEGA’s classic arcade game, this animated adventure is receiving mixed feedback on the trailer, but the stacked voice cast, including Matthew Rhys and Danny Pudi, has us paying attention.\n\nDead Beat\n\nOut September 15\n\nYale’s secret societies were already dangerous enough without demons pouring into New Haven. In the final installment of Leigh Bardugo’s bestselling Ninth House trilogy, Alex Stern faces an impending war with Hell while uncovering dangerous truths about her university and her own blood. Check out the conclusion to one of fantasy’s trendiest dark-academia series.\n\nTrivia Gauntlet: Stranger Things Edition\n\nWith Season 2 of Stranger Things: Tales from '85 premiering on Netflix this Thursday, we’re here to put your Hawkins knowledge to the test.\n\n1. Casual Fan: What tabletop game are Mike, Dustin, Lucas, and Will famously playing when we first meet them in Stranger Things?\n\n2. Committed Follower: What number is tattooed on Jane’s wrist?\n\n3. Cosmic-Level Nerd: What is the name of the arcade where Dustin first discovers that someone called “MADMAX” has beaten his high score?\n\nIn the Spotlight\n\nThe Jurassic Park franchise has given movie lovers countless memories over the decades, but we’ve been long overdue for a new, big-budget dinosaur blockbuster. Thankfully, last month director David Robert Mitchell (It Follows) answered our prayers with a Spielberg-esque adventure starring Anne Hathaway and Ewan McGregor. Check out my full review of The End of Oak Street in Worth the Watch.\n\nEchoes Through the Portal\n\nLove it, loathe it, or ascend into another dimension over it — here's how this month's picks landed with critics:\n\n“Contains more magnificent moments in its opening act than most do in their entire runtime.”\n\n—TheWrap\n\n“Fans of dark romantasy won’t want to miss this.”\n\n—Publishers Weekly\n\n“A post-apocalyptic odyssey like no other”\n\n—Polygon\n\nIncoming Transmissions\n\n👀 Watch the official trailer for Avatar: Seven Havens!\n\n☢️ Anthony Hopkins is set to lead 2048, a post-apocalyptic sci-fi film.\n\n🎩 The Cat in the Hat trailer just dropped!\n\nTrivia Gauntlet: Answers Revealed\n\n1. Dungeons & Dragons\n\n2. 011\n\n3. Palace Arcade"
+  },
+  {
+   "id": "post_0948810b-63cd-4506-9c03-3265263ed311",
+   "title": "What your readers will want in November",
+   "date": "2026-09-14T11:35:00Z",
+   "tags": [
+    "library pix retail"
+   ],
+   "brand": "pix",
+   "url": "https://newsletters.pix-media.com/p/what-your-readers-will-want-in-november"
+  },
+  {
+   "id": "post_573d9cd9-a458-4359-84a5-39b1586388f7",
+   "title": "What your readers will want in November",
+   "date": "2026-09-14T11:35:00Z",
+   "tags": [
+    "library pix advantage"
+   ],
+   "brand": "pix",
+   "url": "https://newsletters.pix-media.com/p/what-your-readers-will-want-in-november-386e",
+   "duplicate_send": true
+  },
+  {
+   "id": "post_e5594ad0-242a-4275-9465-4fe202ff26ef",
+   "title": "What your readers will want in November",
+   "date": "2026-09-14T11:35:00Z",
+   "tags": [
+    "library pix tradeshow"
+   ],
+   "brand": "pix",
+   "url": "https://newsletters.pix-media.com/p/what-your-readers-will-want-in-november-625a",
+   "duplicate_send": true
+  },
+  {
+   "id": "post_876ff0f7-b9b9-4bd6-9aff-1a09b6202830",
+   "title": "3 picks missing from your kitchen",
+   "date": "2026-09-14T11:35:00Z",
+   "tags": [
+    "b2b"
+   ],
+   "brand": "pix",
+   "url": "https://newsletters.pix-media.com/p/3-picks-missing-from-your-kitchen-71c5"
+  },
+  {
+   "id": "post_137b8e90-66f6-4c63-952c-279708059cdc",
+   "title": "The best TV shows of 2026!",
+   "date": "2026-09-13T22:35:00Z",
+   "tags": [
+    "today's pix"
+   ],
+   "brand": "today's pix",
+   "url": "https://newsletters.pix-media.com/p/the-best-tv-shows-of-2026",
+   "text": "The best TV shows of 2026!\n\nHey, friend!\n\nTelevision’s most prestigious award ceremony, the Emmys, airs live on Monday, September 14, on NBC and Peacock at 5 p.m. PT. To celebrate the occasion, this edition of Today’s Pix is all about TV.\n\nWhether you’ve watched every nominated series or still have some catching up to do, consider this your guide to the best entertainment streaming has to offer. From the obvious picks to the incredible shows voters tragically overlooked, there’s plenty worth adding to your watchlist. Happy streaming!\n\n2026 Emmy Nominations: Complete List\n\nHere’s every show, star, and performance that was nominated for television’s biggest awards.\n\nHacks\n\nFinal season streaming on HBO Max\n\nLegendary comedian Deborah Vance and young writer Ava Daniels form an unlikely creative partnership that transforms both of their careers. Led brilliantly by Jean Smart and Hannah Einbinder, Hacks spent five seasons proving a comedy could be hilarious, heartfelt, and remarkably smart. Plus, it’s one of the rare shows that accurately portrays stand-up comedy!\n\nEmmy-Nominated Shows You NEED to Watch\n\nWin or lose, an award isn’t the only factor in determining what’s worth your time. With 60+ shows nominated this year, we’ve handpicked the 10 best shows we think deserve a spot on your watchlist.\n\nWidow's Bay\n\nStreaming on Apple TV\n\nA stubborn small-town mayor decides his cursed New England island would make a fantastic tourist destination. The locals try to warn him, but he doesn’t listen. As visitors finally start arriving, so do long-dormant horrors beneath the surface. Matthew Rhys (The Americans) leads this breakout word-of-mouth hit that is equal parts funny and spooky.\n\n5 Incredible Shows That Got Snubbed by the Emmys\n\nEven the industry voters get it wrong sometimes. These five acclaimed shows were completely shut out of this year’s nominations—but they all deserve a spot on your watchlist.\n\nIndustry\n\nSeason 4 streaming on HBO Max\n\nIn the aftermath of the 2008 financial collapse, ambitious young bankers navigate the cutthroat world of high finance. Season 4 went bigger and bolder than ever, making its complete absence from the Emmy nominations especially baffling. Four seasons in, this razor-sharp HBO series is beloved by critics and viewers alike."
+  },
+  {
+   "id": "post_b100808c-9598-4c01-b3ec-32476f789b9d",
+   "title": "The bestselling book I couldn’t finish",
+   "date": "2026-09-13T19:50:00Z",
+   "tags": [
+    "book pix"
+   ],
+   "brand": "book pix",
+   "url": "https://newsletters.pix-media.com/p/the-bestselling-book-i-couldn-t-finish",
+   "text": "The bestselling book I couldn’t finish\n\nHi, friend!\n\nBefore we get into today’s Book Pix, I have a little announcement: I was on a podcast! I joined Anney and Samantha on Stuff Mom Never Told You to talk about my career journey from publishing to Pix, wax poetic about Dungeon Crawler Carl, and finally reveal the enormously popular novel I disliked so much I literally couldn’t finish it. 👀\n\nI had such a fun time chatting with them, and I hope you have just as much fun listening.\n\nYours,\n\nGenevieve\nBooks Content Manager @ Pix\nCurrent 📖: The Disappearers by Marlon James\n\nBooks of the Moment\n\nSome books define the moment because they’re new, and others because they’ve found their way back into the conversation. From buzzy releases to older titles gaining fresh attention through adaptations, rediscovery, and word of mouth, these are some of the stories everyone’s talking about right now.\n\nLonesome Dove\n\nby Larry McMurtry\n\nEarlier this week, we learned that the team behind Netflix’s upcoming East of Eden adaptation is taking on another beloved classic: Larry McMurtry’s Pulitzer Prize-winning Western, Lonesome Dove. The novel has already been having a bit of a moment, and this news is only adding to the buzz. It’ll probably be a while before the Netflix series arrives, but why wait? Now’s the perfect time to read the epic story of two retired Texas Rangers who set off on a perilous cattle drive across the American West.\n\nThe Most Dangerous Games\n\nby MrBeast and James Patterson\n\nWhat happens when the biggest YouTuber on the planet teams up with one of the bestselling authors of all time? Hopefully, they get the chronically online to put down their phones and pick up a book. MrBeast and James Patterson have joined forces for this instant New York Times bestseller about 100 contestants, a billion-dollar prize, and a globe-spanning survival competition where losing could mean dying.\n\nPage to Screen\n\nPractical Magic 2\n\nThe Owens women are back! Sandra Bullock and Nicole Kidman reunite as Sally and Gillian, who must turn to magic once again when their family’s centuries-old curse threatens the next generation. Based on Alice Hoffman’s bestseller (originally published as The Book of Magic, now published as Practical Magic 2), the sequel is now in theaters."
+  },
+  {
+   "id": "post_fe9c7a31-bf23-49dd-8ba5-c04c30284e6a",
+   "title": "#1 movie of the week",
+   "date": "2026-09-13T11:35:00Z",
+   "tags": [
+    "trending pix"
+   ],
+   "brand": "trending pix",
+   "url": "https://newsletters.pix-media.com/p/1-movie-of-the-week"
+  },
+  {
+   "id": "post_7a46e2f9-da09-4cff-adfe-3eeb7a75e14d",
+   "title": "Never forget: essential 9/11 docs",
+   "date": "2026-09-12T22:35:00Z",
+   "tags": [
+    "today's pix"
+   ],
+   "brand": "today's pix",
+   "url": "https://newsletters.pix-media.com/p/never-forget-essential-9-11-docs-bf67",
+   "duplicate_send": true,
+   "text": "Never forget: essential 9/11 docs\n\nHey, friend!\n\nTwenty-five years after September 11, 2001, we remember the nearly 3,000 lives lost and the countless acts of courage and selflessness that emerged from an unimaginable tragedy. This week’s picks honor their stories through movies, books, and documentaries that reflect on that day and the people whose lives were forever changed.\n\nNever Forget: Essential 9/11 Documentaries\n\nTwenty-five years later, these must-watch documentaries preserve the history of September 11, honoring those we lost and those whose courage defined the day.\n\n9/11: One Day in America\n\nSurvivors and first responders recount September 11 as extraordinary archival footage reconstructs the day minute by minute. Produced in collaboration with the 9/11 Memorial & Museum, National Geographic's six-part docuseries is a deeply moving and remarkably comprehensive record of the tragedy and heroism witnessed that day.\n\nRemembering 9/11: Powerful Reads About September 11\n\nThrough firsthand accounts, meticulous reporting, and deeply personal stories, these books remember the people whose lives were forever changed on September 11.\n\nThe Only Plane in the Sky\n\nby Garrett M. Graff\n\nGarrett M. Graff's acclaimed oral history of September 11 gives a 360-degree account of the day through the voices of nearly 500 people who experienced it firsthand, from survivors and first responders to government officials and ordinary Americans. Their shared stories make an enormous historical event deeply personal.\n\nMovies That Honor the Heroes and Victims of 9/11\n\nFrom first responders racing toward danger to families searching for answers, these films revisit September 11 through deeply human stories of courage, loss, resilience, and hope.\n\nUnited 93\n\nPassengers aboard United Airlines Flight 93 learn of the attacks unfolding across the country and make the courageous decision to fight back. Director Paul Greengrass' harrowing real-time drama avoids Hollywood spectacle, instead delivering a remarkably restrained tribute to the 40 passengers and crew members whose bravery saved countless lives."
+  },
+  {
+   "id": "post_a89a337e-9ec5-4dbc-ab45-4d512925c1f7",
+   "title": "3 picks missing from your kitchen",
+   "date": "2026-09-12T11:35:00Z",
+   "tags": [
+    "insider pix"
+   ],
+   "brand": "insider pix",
+   "url": "https://newsletters.pix-media.com/p/3-picks-missing-from-your-kitchen",
+   "text": "3 picks missing from your kitchen\n\nHi, friend!\n\nWelcome back to Insider Pix, where we uncover what entertainment and culture insiders are watching, reading, and listening to! Next up:\n\nCourtney Alexander\n\nCourtney Alexander is the Director Integrated Marketing at Sur La Table, the beloved kitchen and cooking retailer known for its cookware, culinary tools, and hands-on cooking classes. A longtime marketing and brand strategist, Courtney previously held roles at Cap Hill Brands and Zulily.\n\nCourtney’s 5 Picks\n\nBest TV show you’ve watched recently?\n\nI’m incapable of picking just one! My two most recent binges were Sterling Point and My Brilliant Career. And for my fellow food people, Knife Edge: Chasing Michelin Stars and Chef’s Table are chef’s kiss. I love getting a glimpse into the artistry, precision and obsession behind the craft.\n\nBest movie you watched recently?\n\nRemarkably Bright Creatures. I had read the book and already had such a clear picture of that world in my head, so I was thrilled with the adaptation. The changes they made really worked for moving the story forward on film, while still capturing so much of what I loved about the book.\n\nA hidden gem you wish more people knew about?\n\nYour local public library! Obviously libraries aren’t hidden gems, but I’m always surprised by how many people don’t realize everything their library card can unlock digitally. E-books straight to your Kindle, audiobooks, movies and TV shows, all for free. It’s one of my favorite life hacks.\n\nGo-to weekly podcast?\n\nMy weekly podcast rotation has a little bit of everything: My Favorite Murder, Two Parents & a Pod and Best Brands on Earth. Murder, parenting and marketing pretty much covers the bases.\n\nA 5-star-worthy book you’d recommend to anyone?\n\nI’m obsessed with reading, so I normally interrogate people about what they like before giving a recommendation. If I must give a blanket recommendation, it is The Many Lives of Mama Love by Lara Love Hardin. It’s a phenomenal memoir that really opens your eyes to how addiction can impact anyone. Her story explores addiction, incarceration and redemption, but also the incredible difficulty of rebuilding your life after prison. It’s incredibly human, eye-opening and ultimately inspiring.\n\nPix: What three things are missing from the average home cook’s kitchen that we all need?\n\n“CA: A bench scraper. Once you have one, you’ll wonder how you lived without it. Use it to scoop chopped vegetables off your cutting board, portion and shape dough, cut butter, transfer ingredients, clean flour and sticky dough off your counter, or corral all those little scraps after prep. It’s one of those incredibly simple tools you’ll suddenly reach for constantly.\n\nA blender spatula. My favorite unsung kitchen tool. It gets every last bit out of a food processor, smoothie, sauce, or even the peanut butter jar.\n\nA sharp knife (or a knife sharpener!). Seriously, SHARPEN YOUR KNIVES! A sharp knife makes prep faster, easier, and more enjoyable. Your knives are probably better than you think. They just need a little love.“\n\nPix: What’s one food trend you’re loving right now and one you’re ready to leave behind?\n\n“CA: Loving: Matcha everything. What I love most is how people keep finding new ways to play with it. We’ve moved well beyond the classic matcha latte into strawberry matcha, matcha tonics, matcha butter and some truly incredible-looking baked goods. It’s such a versatile flavor and ingredient, and I love watching a trend continue to evolve as people experiment with it. It feels like we’ve only scratched the surface of where matcha can go.\n\nReady to leave behind: Protein-maxing. Solely because it’s not for me! I’m a veggie girl at heart. Give me all the produce!“\n\nPix: What cookbook has earned a permanent spot on your shelf?\n\n“CA: Impossible question. I have an entire cupboard dedicated to cookbooks and read a new one front to back like a novel, trying to glean every tip and technique. I also have one non-negotiable: I want a photo of every recipe. I need to know what I’m working toward!\n\nFor approachable but elevated cooking, Just Cook It by Justin Chapple and The Modern Proper are staples. Anything Molly Baz is great for technique and unexpected flavor combinations. Right now, I’m also working my way through Maxi’s Kitchen and love how it’s organized around how we actually cook throughout the week, from easy Mondays to more involved weekend meals.“\n\nPix: Go-to meal to make at home when you have 30-minutes?\n\n“CA: Fish en papillote. It sounds fancy, but it’s really just my favorite formula for an easy, elevated dinner: fish + whatever vegetables I have + fresh herbs + citrus + olive oil or butter, all wrapped in parchment and baked. It’s endlessly adaptable, feels special enough for company and, maybe best of all, there’s almost nothing to clean up.“"
+  },
+  {
+   "id": "post_65658337-825f-4a8f-bc10-890faefad832",
+   "title": "Never forget: essential 9/11 docs",
+   "date": "2026-09-11T22:35:00Z",
+   "tags": [
+    "today's pix"
+   ],
+   "brand": "today's pix",
+   "url": "https://newsletters.pix-media.com/p/never-forget-essential-9-11-docs-1911",
+   "duplicate_send": true,
+   "text": "Never forget: essential 9/11 docs\n\nHey, friend!\n\nTwenty-five years after September 11, 2001, we remember the nearly 3,000 lives lost and the countless acts of courage and selflessness that emerged from an unimaginable tragedy. This week’s picks honor their stories through movies, books, and documentaries that reflect on that day and the people whose lives were forever changed.\n\nNever Forget: Essential 9/11 Documentaries\n\nTwenty-five years later, these must-watch documentaries preserve the history of September 11, honoring those we lost and those whose courage defined the day.\n\n9/11: One Day in America\n\nSurvivors and first responders recount September 11 as extraordinary archival footage reconstructs the day minute by minute. Produced in collaboration with the 9/11 Memorial & Museum, National Geographic's six-part docuseries is a deeply moving and remarkably comprehensive record of the tragedy and heroism witnessed that day.\n\nRemembering 9/11: Powerful Reads About September 11\n\nThrough firsthand accounts, meticulous reporting, and deeply personal stories, these books remember the people whose lives were forever changed on September 11.\n\nThe Only Plane in the Sky\n\nby Garrett M. Graff\n\nGarrett M. Graff's acclaimed oral history of September 11 gives a 360-degree account of the day through the voices of nearly 500 people who experienced it firsthand, from survivors and first responders to government officials and ordinary Americans. Their shared stories make an enormous historical event deeply personal.\n\nMovies That Honor the Heroes and Victims of 9/11\n\nFrom first responders racing toward danger to families searching for answers, these films revisit September 11 through deeply human stories of courage, loss, resilience, and hope.\n\nUnited 93\n\nPassengers aboard United Airlines Flight 93 learn of the attacks unfolding across the country and make the courageous decision to fight back. Director Paul Greengrass' harrowing real-time drama avoids Hollywood spectacle, instead delivering a remarkably restrained tribute to the 40 passengers and crew members whose bravery saved countless lives."
+  },
+  {
+   "id": "post_b12be280-9469-48fd-9324-e2e2a09a642f",
+   "title": "A sequel we’ve waited 28 years for is here",
+   "date": "2026-09-11T19:50:00Z",
+   "tags": [
+    "tv & movie pix"
+   ],
+   "brand": "tv & movie pix",
+   "url": "https://newsletters.pix-media.com/p/a-sequel-we-ve-waited-28-years-for-is-here",
+   "text": "A sequel we’ve waited 28 years for is here\n\nHi, friend!\n\nWe’re approaching that time of year when going to the movies starts sounding more appealing than doing pretty much anything outside. Luckily, the theaters are stacked this weekend, so keep reading to discover the best new films that just premiered!\n\nFor those of you who’d rather stay at home, almost nothing is dropping on streaming this weekend, so now’s the perfect time to start rewatching The Office for the 100th time. Speaking of, why is it that we’ll endlessly rewatch sitcoms like Friends and Seinfeld, while seemingly every new sitcom disappears after a season or two? In today’s Worth the Watch I’m digging into why Hollywood has gotten so bad at making sitcoms that actually stick.\n\nYours,\n\nJohn\nFilm & Television Content Manager @ Pix\nCurrent 📺: Game of Thrones\n\nThe Biggest Premieres of the Weekend\n\nMagic and mayhem take over the big screen this weekend, with the return of a beloved cult classic and a historical epic with an A-list star.\n\nPractical Magic 2\n\nIn theaters now\n\nTwenty-eight years after the original, the Owens sisters return to face the curse that could break their family for good. Sandra Bullock and Nicole Kidman are back as our favorite witches, joined by Joey King and Maisie Williams. Whether you're excited for spooky season or '90s nostalgia (or both), this one's worth the ticket.\n\nThe Uprising\n\nIn theaters now\n\nIn 14th-century England, a humble peasant rallies an army of commoners against the tyranny of King Richard II. Andrew Garfield leads this historical action epic based on the true rebellion that inspired the legend of Robin Hood. From director Paul Greengrass (Captain Phillips, The Bourne Ultimatum), it’s sure to be an intense ride.\n\nThe Reviews Are In\n\nCritics have mixed feelings about this week's biggest releases. Here's what they had to say.\n\n“Intense from first minute to last”\n\n—The Hollywood Reporter\n\n“An exceptional new situational comedy that rivals anything else currently on TV.”\n\n—Screen Rant\n\n“A flawed but fantastical reunion”\n\n—TheWrap\n\nGuess the Movie: Poorly Explained Plots\n\nProof that you don't actually need intelligence to work in intelligence.\n\nComing Soon\n\n👀 Author Nicholas Sparks and director M. Night Shyamalan released a teaser for their new fantasy movie.\n\n📅 Season 2 of Dexter: Resurrection has a release date.\n\n🤖 Andrew Garfield stars as an infamous tech titan in Luca Guadagnino's upcoming film."
+  },
+  {
+   "id": "post_cf14870b-0cc1-4223-b152-fd4274fa4baa",
+   "title": "The slow death of the sitcom",
+   "date": "2026-09-11T15:50:00Z",
+   "tags": [
+    "worth the watch"
+   ],
+   "brand": "worth the watch +",
+   "url": "https://newsletters.pix-media.com/p/the-slow-death-of-the-sitcom"
+  },
+  {
+   "id": "post_852090d4-aec9-40a3-a96f-498675fc5ea0",
+   "title": "Sunny stories with an island state of mind",
+   "date": "2026-09-11T11:35:00Z",
+   "tags": [
+    "travel pix"
+   ],
+   "brand": "travel pix",
+   "url": "https://newsletters.pix-media.com/p/sunny-stories-with-an-island-state-of-mind",
+   "text": "Sunny stories with an island state of mind\n\nHi, friend!\n\nToday’s sunny stories travel to seaside villages, colorful resorts, and shores where romance and new adventures are always right around the corner. Settle in with these cheerful picks and enjoy a quick island escape.\n\nRom-Coms With a Sea Breeze\n\nThese island-set romantic comedies deliver mix-ups, second chances, beautiful scenery, and endings sure to make you smile.\n\nThis Little Love of Mine\n\nStreaming on Prime Video\n\nWorkaholic lawyer Laura returns to her island hometown with one goal: convince her childhood friend Chip to take over his family’s company. Chip agrees to consider the offer, but only if Laura joins him for a series of relaxing island activities, giving the old friends plenty of time to rediscover their chemistry.\n\nResort to Love\n\nStreaming on Netflix\n\nAfter a career setback, singer Erica accepts a job performing at a luxurious island resort—only to discover that her former fiancé is getting married there. Christina Milian stars in this breezy romantic comedy filled with surprises, musical performances, and second-chance love.\n\n5 Books That Put You on Island Time\n\nThese sunny reads deliver romantic mix-ups, fresh (seaside) starts, and characters discovering just how powerful a change of scenery can be.\n\nIsland Affair\n\nby Priscilla Oliveras\n\nWhen her boyfriend misses a family vacation, Sara convinces Key West firefighter Luis to pose as her devoted fiancé. But as they navigate family dinners, island activities, and romantic evenings together, their pretend romance starts to feel surprisingly real.\n\nCheck In and Stay a While\n\nPack your imaginary suitcase for two sunny series filled with colorful surroundings and big personalities.\n\nThe Durrells in Corfu\n\nStreaming on PBS\n\nSearching for a fresh start, Louisa Durrell moves her spirited family from England to the Greek island of Corfu. Their new life quickly fills with unusual neighbors, wandering animals, budding romances, and an endless cascade of delightfully unpredictable situations.\n\nRenovation Island\n\nAvailable on HGTV\n\nContractor Bryan Baeumler and designer Sarah Baeumler move their family to a tropical island to transform an abandoned beachfront property into a welcoming boutique resort. Between colorful design plans, ambitious renovations, and the realities of building somewhere far from home, their project becomes a family adventure with a sunny payoff. Come for the island scenery and stay for the satisfying before-and-after reveals!\n\nIsland Rom-Com Spotlight\n\nLost in Paradise\n\nStreaming on Hallmark+\n\nWhen an unexpected detour leaves them stranded together on a seemingly deserted island, fashion company founder Sophia (Lacey Chabert) and chef Max (Ian Harding) must work together to survive. And as they trade their usual routines for survival, improvised meals, and a little teamwork, romantic sparks begin to fly."
+  },
+  {
+   "id": "post_13a42302-46f7-4132-968a-408bcf4ee8f9",
+   "title": "Never forget: essential 9/11 docs",
+   "date": "2026-09-10T22:35:00Z",
+   "tags": [
+    "today's pix"
+   ],
+   "brand": "today's pix",
+   "url": "https://newsletters.pix-media.com/p/never-forget-essential-9-11-docs",
+   "text": "Never forget: essential 9/11 docs\n\nHey, friend!\n\nTwenty-five years after September 11, 2001, we remember the nearly 3,000 lives lost and the countless acts of courage and selflessness that emerged from an unimaginable tragedy. This week’s picks honor their stories through movies, books, and documentaries that reflect on that day and the people whose lives were forever changed.\n\nNever Forget: Essential 9/11 Documentaries\n\nTwenty-five years later, these must-watch documentaries preserve the history of September 11, honoring those we lost and those whose courage defined the day.\n\n9/11: One Day in America\n\nSurvivors and first responders recount September 11 as extraordinary archival footage reconstructs the day minute by minute. Produced in collaboration with the 9/11 Memorial & Museum, National Geographic's six-part docuseries is a deeply moving and remarkably comprehensive record of the tragedy and heroism witnessed that day.\n\nRemembering 9/11: Powerful Reads About September 11\n\nThrough firsthand accounts, meticulous reporting, and deeply personal stories, these books remember the people whose lives were forever changed on September 11.\n\nThe Only Plane in the Sky\n\nby Garrett M. Graff\n\nGarrett M. Graff's acclaimed oral history of September 11 gives a 360-degree account of the day through the voices of nearly 500 people who experienced it firsthand, from survivors and first responders to government officials and ordinary Americans. Their shared stories make an enormous historical event deeply personal.\n\nMovies That Honor the Heroes and Victims of 9/11\n\nFrom first responders racing toward danger to families searching for answers, these films revisit September 11 through deeply human stories of courage, loss, resilience, and hope.\n\nUnited 93\n\nPassengers aboard United Airlines Flight 93 learn of the attacks unfolding across the country and make the courageous decision to fight back. Director Paul Greengrass' harrowing real-time drama avoids Hollywood spectacle, instead delivering a remarkably restrained tribute to the 40 passengers and crew members whose bravery saved countless lives."
+  },
+  {
+   "id": "post_66bdb9fa-9025-4aad-bd0f-fdeed7f532ed",
+   "title": "Ariel Lawhon is back with her first novel since ‘The Frozen River’!",
+   "date": "2026-09-10T19:50:00Z",
+   "tags": [
+    "book pix"
+   ],
+   "brand": "book pix",
+   "url": "https://newsletters.pix-media.com/p/ariel-lawhon-is-back-with-her-first-novel-since-the-frozen-river",
+   "text": "Ariel Lawhon is back with her first novel since ‘The Frozen River’!\n\nHi, friend!\n\nWe are barely into September, and the Halloween vibes are already coming in strong: witches and pirate queens abound, and Carrie is making her way back to our screens. Personally, I’m not complaining. Give me spooky season now. I’m ready!\n\nIn fact, it was Carrie (and the Sunrise on the Reaping news below) that got me thinking about just how many book-to-screen adaptations are headed our way over the next few months. So for today’s Worth the Read, I rounded up 12 major adaptations coming between now and November. Go give it a read, and if you’re not yet subscribed to Pix Plus, this is a great one to start with.\n\nYours,\n\nGenevieve\nBooks Content Manager @ Pix\nCurrent 📖: The Disappearers by Marlon James\n\nBookmarks | Exciting New Releases\n\nHISTORICAL FICTION SPOTLIGHT\n\nThe Pirate Queen\n\nby Ariel Lawhon\n\nAriel Lawhon, author of the bestselling GMA Book Club Pick The Frozen River, is back this week with a sweeping historical adventure inspired by Grace O’Malley, the legendary Pirate Queen of Ireland! Forced into a brutal marriage before finally taking command of her family’s fleet, Grace must fight to defend her land, her people, and her freedom from Queen Elizabeth’s forces in what Real Simple calls “a thrill-a-minute adventure with an absolute badass at the helm.”\n\nLITERARY FICTION SPOTLIGHT\n\nThe Witches of Cambridge\n\nby Alice Hoffman\n\nJust in time for Practical Magic 2 (hitting theaters tomorrow), Alice Hoffman is back with a brand-new witchy series set at Radcliffe College in the 1950s. This time, Hoffman trades a family of cursed witches for two young women who are recruited into the Lilith Society, a secret group of witches dating back to colonial times, just as its members begin mysteriously disappearing.\n\nThe Reviews Are In\n\nFrom starred reviews to glowing blurbs, here are three new books critics and authors are championing this week.\n\n“The last pages of [this book], which mingle horror, beauty, absurdity, and a sense of profound finality, will probably stay with me forever.”\n\n—The Guardian\n\n“Quiet, moving and thought-provoking.”\n\n—Bookpage\n\n“Steady your sea legs and prepare for the ultimate adventure!”\n\n—Rachel Gillig, #1 New York Times bestselling author of The Knight Moth\n\nGuess the Book: Emoji Edition\n\n🧙‍♀️ 💚 🧹 🐒 🦁 🏰 🪄 🐐 👠 🌪️\n\nBookworld\n\n🤠 Netflix is taking on (what many people consider to be) the most iconic Western novel.\n\n🍿 Watch the new trailer for Prime Video’s adaptation of Carrie!\n\n📺 Ahead of The Hunger Games: Sunrise on the Reaping, watch these chilling commercials straight from the Capitol.\n\nGuess the Book: Emoji Edition Answer\n\nWicked by Gregory Maguire! In case you’ve been missing everyone’s favorite witches, don’t worry: Wicked is hitting the road with live-to-film concerts, featuring a full symphony orchestra performing the score as the movies play on the big screen."
+  },
   {
    "id": "post_5ba33884-c89a-4b68-9d7a-11fbe1f27a2b",
    "title": "12 major adaptations coming this fall",
@@ -1175,156 +1349,6 @@
    "brand": "today's pix",
    "duplicate_send": true,
    "text": "Hey, friend!\n\nDid you know it’s currently Elvis Week? This annual week-long celebration of the “King of Rock & Roll” takes place every year in Memphis, Tennessee. Since most of us won’t be visiting the world-famous Graceland estate anytime soon, we decided to round up the best Elvis movies and docs, reads on rock 'n' roll's golden age, and the decade’s greatest musical biopics to help you celebrate from the comfort of your couch.\n\nLong Live the King: The Best Elvis Movies & Docs\n\nFrom the iconic sequined jumpsuits in Vegas to grainy archival footage of a 21-year-old kid at Sun Records, these are the movies and docs that show the man behind the music.\n\nElvis\n\nBaz Luhrmann's fever-dream biopic tracks Elvis's rise and unraveling through the eyes of Colonel Tom Parker (Tom Hanks), the manager who built him into a phenomenon and profited off every moment of it. Austin Butler masterfully disappears into the role—so much so that his real-life voice still has hints of Elvis’s to this day.\n\nBackstage Pass: Books Exploring the Golden Age of Rock 'n' Roll\n\nMovies give you the highlight reel, but these books shine a light on everything that got left out: the label politics, the bad contracts, and the moments nobody put on film.\n\nLast Train to Memphis\n\nby Peter Guralnick\n\nThe first half of Peter Guralnick's two-volume Elvis biography covers his life from birth through 1958, before the Army, before Vegas, and before his songs took over the world. It's considered the definitive account of how rock 'n' roll began, treating Presley as a working musician rather than a myth.\n\nTop 10 Musical Biopics of the Decade\n\nOnce Elvis Week comes to an end, here are 10 more must-watch musical biopics worth singing along to.\n\nRespect\n\nAretha Franklin handpicked Jennifer Hudson to play her years before this film got made, and it's easy to see why once Hudson opens her mouth. The story tracks Franklin's rise from her father's church choir to international stardom."
-  },
-  {
-   "id": "post_8721fb00-c461-4dc4-bfea-606150343728",
-   "title": "“An epic love story... a gorgeously written novel”",
-   "date": "2026-08-15T11:35:00Z",
-   "tags": [
-    "insider pix"
-   ],
-   "brand": "insider pix",
-   "url": "https://newsletters.pix-media.com/p/an-epic-love-story-a-gorgeously-written-novel",
-   "text": "Hi, friend!\n\nWelcome back to Insider Pix, where we uncover what entertainment and culture insiders are watching, reading, and listening to! Next up:\n\nLeigh Haber\n\nLeigh Haber is a seasoned publishing executive who spent a decade overseeing Oprah’s Book Club and book coverage for O Magazine and Oprah Daily, where she served as VP, Books. Her wide-ranging career has included roles as an editor, publicity director, producer, speechwriter, and book reviewer, and she has worked with authors including Al Gore, Steve Martin, Terry Gross, and Alice Walker. She now joins Sourcebooks as VP, Executive Director of Communications and Special Projects.\n\nLeigh’s 5 Picks\n\nA 5-star-worthy book you’d recommend to anyone?\n\nThe Loneliness of Sonia and Sunny by Kiran Desai. Yes, it’s 700-something pages, but it’s an epic love story alongside a portrait of alienation and displacement—a gorgeously written novel by the Booker Prize-winning author of The Inheritance of Loss.\n\nBest TV show you’ve watched recently?\n\nIt’s a tie between Hacks and The Comeback. Hacks is hilarious—the relationship between its two stars is so complex and electric. Jean Smart is a genius. And The Comeback is off-kilter in a way that is so Lisa Kudrow. Riveting.\n\nBest movie you watched recently?\n\nMichael, starring Jaafar Jackson. I know there will be haters for this choice, but I couldn’t take my eyes off the screen. Jaafar’s performance was off the charts, and I’d forgotten how great the music is.\n\nA hidden gem you wish more people knew about?\n\nThe film Juliet, Naked. Starring Rose Byrne, Ethan Hawke, and Chris O’Dowd—I love its quirky warmth.\n\nGo-to weekly podcast?\n\nGood Hang with Amy Poehler. She’s like the embodiment of fun. Takes me out of my head. That episode with Will Ferrell?? Awkward and hilarious.\n\nPix: What is the best book you’ve read so far this year, and what made it stand out?\n\n“LH: It’s a tie between The Things We Never Say by Elizabeth Strout and Whistler by Ann Patchett. I didn’t want either of them to end.”\n\nPix: You spent over a decade as the Director of Oprah’s Book Club. Is there a particular Oprah's Book Club selection or author that holds a special place in your heart, and what makes it so memorable?\n\n“LH: I can narrow it down to three. An American Marriage by Tayari Jones is one. I’d loved Tayari’s Silver Sparrow but wasn’t able to get Oprah to select it, so when An American Marriage came out, I was all over it. And Tayari is a delight. We picked The Underground Railroad by Colson Whitehead, and that was before he won the Pulitzer. Very proud of that one. And then Caste by Isabel Wilkerson. I think those who read it with us began to view racism in a completely different way.”\n\nPix: If you could host a dream dinner party with three authors—dead or alive—who's getting an invitation and why?\n\n“LH: Toni Morrison, for sure. I adore her fiction, but she was also such a great essayist and thinker. She would preside over the dinner party, in my fantasy. (and of course Oprah did hold a dinner party on camera with her…) Amor Towles would have to be there, because he’s such a classic gentleman and I love his white suits. And I’d have to go with Toni Cade Bambara as our third. She and Toni were friends and colleagues, and TCB is such an underrated writer. She also had a sparkling personality–radiated warmth and humor.”\n\nPix: You are the director of The Ink Book Club, which has a call to action for all bibliophiles: “In this era of book banning, be fierce!” If you could put a banned book into every reader’s hands, which would you pick and why?\n\n“LH: The 1619 Project, by Nikole Hannah-Jones. We have to start looking at our country’s history more realistically if we are going to move forward in a productive way.”"
-  },
-  {
-   "id": "post_a1c9806f-a030-4dea-a79b-ec7401fa874b",
-   "title": "Must-watch films to celebrate Elvis Week",
-   "date": "2026-08-14T22:35:00Z",
-   "tags": [
-    "today's pix"
-   ],
-   "brand": "today's pix",
-   "url": "https://newsletters.pix-media.com/p/must-watch-films-to-celebrate-elvis-week",
-   "text": "Hey, friend!\n\nDid you know it’s currently Elvis Week? This annual week-long celebration of the “King of Rock & Roll” takes place every year in Memphis, Tennessee. Since most of us won’t be visiting the world-famous Graceland estate anytime soon, we decided to round up the best Elvis movies and docs, reads on rock 'n' roll's golden age, and the decade’s greatest musical biopics to help you celebrate from the comfort of your couch.\n\nLong Live the King: The Best Elvis Movies & Docs\n\nFrom the iconic sequined jumpsuits in Vegas to grainy archival footage of a 21-year-old kid at Sun Records, these are the movies and docs that show the man behind the music.\n\nElvis\n\nBaz Luhrmann's fever-dream biopic tracks Elvis's rise and unraveling through the eyes of Colonel Tom Parker (Tom Hanks), the manager who built him into a phenomenon and profited off every moment of it. Austin Butler masterfully disappears into the role—so much so that his real-life voice still has hints of Elvis’s to this day.\n\nBackstage Pass: Books Exploring the Golden Age of Rock 'n' Roll\n\nMovies give you the highlight reel, but these books shine a light on everything that got left out: the label politics, the bad contracts, and the moments nobody put on film.\n\nLast Train to Memphis\n\nby Peter Guralnick\n\nThe first half of Peter Guralnick's two-volume Elvis biography covers his life from birth through 1958, before the Army, before Vegas, and before his songs took over the world. It's considered the definitive account of how rock 'n' roll began, treating Presley as a working musician rather than a myth.\n\nTop 10 Musical Biopics of the Decade\n\nOnce Elvis Week comes to an end, here are 10 more must-watch musical biopics worth singing along to.\n\nRespect\n\nAretha Franklin handpicked Jennifer Hudson to play her years before this film got made, and it's easy to see why once Hudson opens her mouth. The story tracks Franklin's rise from her father's church choir to international stardom."
-  },
-  {
-   "id": "post_6c013c67-0ff9-4418-a11a-e8e9347f1151",
-   "title": "The dinosaur movie we’ve waited 30 years for 🦕",
-   "date": "2026-08-14T19:50:00Z",
-   "tags": [
-    "tv & movie pix"
-   ],
-   "brand": "tv & movie pix",
-   "url": "https://newsletters.pix-media.com/p/the-dinosaur-movie-we-ve-waited-30-years-for",
-   "text": "Hi, friend!\n\nI’ve finally returned from my two-week European vacation, and despite not once turning on my hotel room TV, I managed to watch four new movies while I was away—thanks to the brutal 9-hour flights. This got me thinking: what makes the perfect airplane movie? In today’s edition of Worth the Watch (which is also live right now), I explore the anatomy of the airplane movie—why we’re drawn to certain types of movies in the sky, what to avoid watching while flying, and my top 5 airplane movie recommendations.\n\nNow, for those of us who are not traveling anytime soon, keep reading to discover the best new shows and movies premiering this weekend!\n\nYours,\n\nJohn\nFilm & Television Content Manager @ Pix\nCurrent 📺: Game of Thrones | 🎥: Raiders of the Lost Ark\n\nThe Biggest Premieres of the Weekend\n\nOne new movie worth the ticket price, and one show based on a beloved comic book that fans are cautiously optimistic about.\n\nThe End of Oak Street\n\nIn theaters now\n\nThe Jurassic Park franchise has given movie lovers countless memories over the years, but we’ve been long overdue for a new, big-budget dinosaur blockbuster. This is exactly that. After a cosmic event rips their suburban neighborhood out of suburbia and drops it somewhere unknown, Anne Hathaway and Ewan McGregor must stick together to keep their family alive.\n\nLanterns\n\nStreaming August 16 on HBO Max\n\nInspired by True Detective and Slow Horses, HBO’s newest superhero series trades cosmic battles for a small-town murder mystery vibe. Lanterns John Stewart (Aaron Pierre) and veteran Hal Jordan (Kyle Chandler) are intergalactic peacekeepers. On Earth, they’re pulled into a mysterious case as they investigate a murder in the American heartland.\n\nThe Reviews Are In\n\nPraise be! The newest movies and shows are certified hits for critics.\n\n“A loopier (and in some ways better) Jurassic movie” —Variety\n\n“The bloodiest, funniest and most political season yet” —TheWrap\n\n“Sassy and steamy” —The Guardian\n\nTrailer of the Day\n\nVerity\n\nLowen Ashleigh (Dakota Johnson) takes a ghostwriting job for bestselling author Verity Crawford (Anne Hathaway), only to start unraveling the disturbing secrets Verity left behind in her own manuscripts. This long-awaited adaptation of Colleen Hoover's bestselling novel hits theaters October 2.\n\nGuess the Show: Poorly Explained Plots\n\nA suburban woman’s new diet causes some tension with the neighbors.\n\nComing Soon\n\n🚨 Barbie 2 is in crisis! The sequel could be cancelled amid bitter tension in deal negotiations.\n\n🏛️ The Lincoln Lawyer is getting a spinoff series at Netflix.\n\n📺 Watch the trailer for Season 2 of The Paper!"
-  },
-  {
-   "id": "post_b71d61ea-4b96-464b-8f5d-600e8712263b",
-   "title": "Top 5 movies to watch on an airplane",
-   "date": "2026-08-14T15:50:00Z",
-   "tags": [
-    "worth the watch"
-   ],
-   "brand": "worth the watch +"
-  },
-  {
-   "id": "post_6d1eded8-8829-435c-9762-e8c410830cd9",
-   "title": "Must watch comfort series",
-   "date": "2026-08-14T11:35:00Z",
-   "tags": [
-    "wellness pix"
-   ],
-   "brand": "wellness pix",
-   "url": "https://newsletters.pix-media.com/p/must-watch-comfort-series",
-   "text": "Hi, friend!\n\nNational Relaxation Day lands tomorrow, and with all the summer events winding down, we’re looking forward to doing the same. We rounded up a few ways to spend the day genuinely doing nothing: a show, a couple of books, and a movie or two made for a lazy afternoon. Let's get into it.\n\n7 Cozy, Small-Town Romances for a Comfort Binge\n\nWhen you don't have the energy to pick something new, familiar swoons win every time.\n\nVirgin River\n\nStreaming on Netflix\n\nA nurse practitioner leaves her life in Los Angeles behind to take a job in the remote town of Virgin River, California. Over several seasons, she adjusts to unfamiliar surroundings, new relationships, and small-town routines while building a medical practice from scratch.\n\nQuiet Pages\n\nNo reading goals today. Just a couple of books made for flipping through at your own pace.\n\nThe Comfort Book\n\nby Matt Haig\n\nA collection of short essays, lists, and personal reflections on nature, kindness, mental health, and resilience. Each entry stands on its own, making it easy to pick up, read a few pages, and come back to whenever you like.\n\nWherever You Go, There You Are\n\nby Jon Kabat-Zinn\n\nA nonfiction introduction to mindfulness meditation, covering techniques for paying attention to the present moment, breathing exercises, and body awareness. It’s organized into short standalone chapters exploring different aspects of mindfulness theory, history, and ways to apply it to everyday life.\n\nWorth Getting Lost In\n\nIf couch and movie time feel right, these two are built for comfort and wonder.\n\nHunt for the Wilderpeople\n\nStreaming on Prime Video\n\nTaika Waititi’s adventure comedy follows a rebellious foster child and his reluctant foster uncle who become subjects of a nationwide manhunt after fleeing into the New Zealand bush.\n\nAmélie\n\nAvailable to rent\n\nA shy waitress working in a Paris café decides to secretly improve the lives of people around her after finding a childhood memento hidden in her apartment, orchestrating anonymous acts of kindness while navigating her isolation and a budding romance."
-  },
-  {
-   "id": "post_7a4f546b-319f-4e72-aacf-3046885802a9",
-   "title": "The most chilling true crime shows of 2026",
-   "date": "2026-08-13T22:35:00Z",
-   "tags": [
-    "today's pix"
-   ],
-   "brand": "today's pix",
-   "duplicate_send": true,
-   "text": "The most chilling true crime shows of 2026 — Today's Pix\n\nEarlier this summer, Netflix's Maternal Instinct had everyone talking about its chilling depiction of a real COVID-era case. Now, a new season of Conversations with a Killer is landing this week. With the genre having a killer lineup this summer, we've rounded up the most fascinating true crime stories across TV, podcasts, and books.\n\nTHE MOST CHILLING TRUE CRIME SHOWS OF THE YEAR (SO FAR)\nTrue crime TV isn't just popular right now, it's absolutely dominating. These are the new shows that made viewers stay up way past their bedtime, one creepy episode at a time.\nConversations with a Killer: The Charles Manson Tapes — Joe Berlinger's docuseries returns for a new volume, tracing Charles Manson's rise as a cult leader through unreleased prison recordings, firsthand accounts, and archival footage most viewers have never seen. It's the franchise's darkest season yet, and the closest anyone's gotten to hearing Manson explain himself in his own words. Only on Netflix August 12.\n\nNEW & UNSETTLING TRUE CRIME PODCASTS\nFrom mysterious cold cases to shocking family secrets nobody saw coming, the best true crime podcasts of the year prove the genre still has new angles to explore.\nThe Idiot — For years, M. Gessen wrote about the world's worst people: dictators, terrorists, human rights abusers. Then their own cousin Allen got arrested for trying to have his ex-wife killed. Serial Productions' latest is the studio's funniest true crime podcast yet, and its most personal.\n\nPAGE-TURNERS: THE MOST ADDICTIVE TRUE CRIME BOOKS OF 2026\nThe best true crime writing turns real tragedy into something you can't put down without ever losing the human stakes.\nLondon Falling by Patrick Radden Keefe — Patrick Radden Keefe, the writer behind Say Nothing and Empire of Pain, tells the story of a London teenager who invented an entire identity as a Russian oligarch's son before he was found dead in the Thames. This devastating and spellbinding read is easily one of the biggest books of the year."
-  },
-  {
-   "id": "post_384a6025-64c5-48ce-b458-5bad0d9634f1",
-   "title": "Olivie Blake’s latest is “a gory, gothic masterpiece”",
-   "date": "2026-08-13T19:50:00Z",
-   "tags": [
-    "book pix"
-   ],
-   "brand": "book pix",
-   "url": "https://newsletters.pix-media.com/p/olivie-blake-s-latest-is-a-gory-gothic-masterpiece",
-   "text": "Olivie Blake's latest is \"a gory, gothic masterpiece\" — Book Pix\nBy Genevieve, Books Content Manager @ Pix\n\nAugust is kind of a weird month: summer isn't over, fall hasn't started, and everyone is scrambling to take a few more days of vacation. So why not lean into the weirdness? Today's books are delightfully off-kilter, with a bloody Hollywood tale, some multiverse romance, and more.\n\nFANTASY SPOTLIGHT — Dreamland by Olivie Blake\nNew York Times bestselling author Olivie Blake (The Atlas Six, Girl Dinner) returns with a bloody good novel about an aspiring actress who is drawn into the orbit of a powerful Hollywood dynasty, as a seductive heir and her own ambition threaten to consume her. Alix E. Harrow (Starling House) raves: \"This is Olivie Blake at the height of her power, doing cartwheels on the high wire. Dreamland is a sweat-slick Hollywood fable about fame, fortune, and the sins we'd commit for either. A gory, gothic masterpiece.\"\n\nROMANCE SPOTLIGHT — In What World by Bridget Morrissey\nIn this \"true love letter to theatre kids and queer folks\" (Hannah Bonam-Young), two former high school rivals begrudgingly reunite to find their missing drama teacher, only to tumble through a series of alternate realities where other versions of themselves are much more honest about their feelings for each other. Equal parts multiverse adventure and simmering second-chance romance, this clever, heartfelt novel asks what happens when the person you can't stand might be the person you can't live without.\n\nTHE REVIEWS ARE IN\n\"A tour de force.\" —The Atlantic\n\"A rare and beautifully controlled novel of magic, intrigue, and obsession…. Delightful and dangerous. A feat of marvelous showmanship!\" —Rachel Beanland, author of This House Is on Fire\n\"One of the most unusual, thought-provoking books you'll read this year.\" —BookPage\n\nBOOKWORLD\nWatch the brand-new trailer for Verity. Roxane Gay's Hunger is coming to Lifetime in September. Can you couch-to-5k your way back into reading?\n\nGuess the Book (emoji edition) answer: Dandelion Wine by Ray Bradbury, the ultimate late-summer read."
-  },
-  {
-   "id": "post_49270a3e-5e0b-4b3e-a9d0-cad292d9389d",
-   "title": "\"I stand behind none of this, and yet, it's all sort of true.\"",
-   "date": "2026-08-13T15:50:00Z",
-   "tags": [
-    "worth the read"
-   ],
-   "brand": "worth the read +",
-   "url": "https://newsletters.pix-media.com/p/i-stand-behind-none-of-this-and-yet-it-s-all-sort-of-true"
-  },
-  {
-   "id": "post_7aaa2ada-383e-4b03-8412-6048f0a4b80f",
-   "title": "Hawaii movie marathon",
-   "date": "2026-08-13T11:35:00Z",
-   "tags": [
-    "travel pix"
-   ],
-   "brand": "travel pix",
-   "url": "https://newsletters.pix-media.com/p/hawaii-movie-marathon",
-   "text": "Hawaii movie marathon — Travel Pix\n\nAloha! This week, we've got a Hawaiian-set roundup—the movies, shows, and books that capture the best of what the islands have to offer.\n\nACTOR SPOTLIGHT\nJason Momoa isn't just Hollywood's most famous Native Hawaiian actor—from Aquaman to Chief of War, he's helped bring Hawaiian culture and language to a global audience. Off-screen, he uses that spotlight to give back to the islands, working on beach cleanups and serving as an ocean-advocacy ambassador for the UNEP to help protect the coastlines he calls home.\n\nThe Wrecking Crew — streaming on Prime Video. Estranged half-brothers James (Dave Bautista) and Jonny (Jason Momoa) reunite in Hawaii after their father's murder, uncovering a scheme to seize Hawaiian land.\n\nChief of War — streaming on Apple TV. Momoa stars as Ka'iana, a fearless warrior on a mission to unite Hawaii's warring kingdoms before Western colonizers arrive in this epic drama series about the origin of Hawaii.\n\nULTIMATE HAWAII MOVIE MARATHON\nA viewing list of Hawaii-set films.\n\nISLAND LIFE: BOOKS MADE FOR BEACH DAYS\nTrue to Me by Kay Bratt — On Maui, matriarch Ava Briscoe runs the family's pineapple farm as her four grown children each navigate life's hurdles. But when a long-buried secret resurfaces, exposing betrayal and threatening the business, the family is forced to face some hard truths.\n\nAlso recommended: Soul Surfer, Avatar: The Way of Water, Lilo & Stitch, The Unhoneymooners, Blue Hawaiian, Shark Dialogues."
-  },
-  {
-   "id": "post_5b35d79b-7a35-4424-bee9-7d4b8d10ca1d",
-   "title": "“One of the worst films of the year so far”",
-   "date": "2026-08-12T19:50:00Z",
-   "tags": [
-    "tv & movie pix"
-   ],
-   "brand": "tv & movie pix",
-   "url": "https://newsletters.pix-media.com/p/one-of-the-worst-films-of-the-year-so-far",
-   "text": "\"One of the worst films of the year so far\" — TV & Movie Pix\nBy John, Film & Television Content Manager @ Pix\n\nThe Season 3 finale of HBO's House of the Dragon dropped on Sunday, which means the entire soundtrack for the season is finally available to stream. Which show or movie has the greatest soundtrack? Now, onto the best new movies and shows premiering mid-week.\n\nTHE REVIEWS ARE IN\nCritics did not hold back this week.\n\"One of the worst films of the year so far\" —ScreenRant\n\"Its addictive romance, lovable characters, and bingeable drama make it hard to resist.\" —Tom's Guide\n\"Instantly forgettable\" —Variety\n\nBIGGEST MID-WEEK PREMIERES\nTwo rebels, two very different vibes.\n\nReacher — Season 4 streaming on Prime Video. A distraught stranger on a Philadelphia subway platform pulls Jack Reacher into his most dangerous case yet—politicians, conspiracies, and Reacher's usual brand of street justice. Alan Ritchson returns as the ex-military drifter, and Season 4 lives up to its tagline: he's back and bigger than ever.\n\nMy Brilliant Career — streaming on Netflix August 13. In 1900s Australia, Sybylla wants exactly one thing: to be a writer, not somebody's wife. Philippa Northeast leads this new adaptation of the classic (125-year-old) Australian novel, breaking every convention her family throws at her, until love complicates the plan.\n\nTRAILER OF THE DAY — American Hostage\nIn 1970s Indianapolis, radio reporter Fred Heckman lands the highest-stakes interview of his career when kidnapper Tony Kiritsis demands to go on air, live. Based on a true story and the acclaimed first season of the podcast of the same name, Jon Hamm leads this psychological thriller that focuses on a different hostage case every season. Premieres September 20 on MGM+.\n\nCOMING SOON\nAmy Poehler & Hugh Laurie's new comedy show has a premiere date. Outlander star Caitríona Balfe will lead a new Apple TV thriller. Five Nights at Freddy's to open a real Freddy Fazbear's Pizza shop next year."
-  },
-  {
-   "id": "post_3df06827-e6f5-48e2-8ea0-167a62a87165",
-   "title": "My sense of direction is a catastrophe, which made this episode personal",
-   "date": "2026-08-12T16:40:00Z",
-   "tags": [
-    "worth the listen"
-   ],
-   "brand": "worth the listen +",
-   "url": "https://newsletters.pix-media.com/p/my-sense-of-direction-is-a-catastrophe-which-made-this-episode-personal"
-  },
-  {
-   "id": "post_ba5d78c8-1cf0-40da-a80f-2da233a68f24",
-   "title": "PAW Patrol takes on bedtime",
-   "date": "2026-08-12T11:35:00Z",
-   "tags": [
-    "family pix"
-   ],
-   "brand": "pix",
-   "url": "https://newsletters.pix-media.com/p/paw-patrol-takes-on-bedtime",
-   "text": "PAW Patrol takes on bedtime — Family Pix\n\nReady for a prehistoric family adventure? We put together the ultimate family night this week to make movie night—and bedtime—even more fun. Start with PAW Patrol: The Dino Movie, then keep the excitement going with books perfect for little dinosaur fans.\n\nFAMILY MOVIE NIGHT\nPAW Patrol: The Dino Movie — in theaters August 14. Get ready for a dino-sized adventure! The PAW Patrol pups crash-land on a mysterious island packed with dinosaurs, daring rescues, and volcanic surprises. With new friend Rex by their side, they'll need teamwork, courage, and plenty of pup power to save the day.\n\nBEDTIME PICKS: MORE DINO ADVENTURES\nDinosaur, Dinosaur, Say Good Night (ages 0-3) — Settle in for bedtime with some very sleepy dinosaurs. Gentle rhymes and sweet illustrations follow little dinos through their nighttime routines, from baths and books to wishing on stars and good-night hugs. Sturdy board pages make it a cozy pick for little listeners.\nHow to Catch a Dinosaur by Adam Wallace (ages 3-5) — Could dinosaurs still be out there? The \"How to Catch\" kids are determined to find out. Follow their hilarious attempts to trap a prehistoric pal in time for the school science fair. Packed with clever traps and silly surprises.\nSave the Dinosaurs! by Tex Huntley (ages 4-6) — Someone is stealing eggs from Dino Land, and the PAW Patrol is on the case. Skye, Chase, Marshall, and the rest of the pups team up with dinosaur expert Rex for a prehistoric rescue.\nDinosaurs Before Dark by Mary Pope Osborne (ages 5-10) — A mysterious tree house sends Jack and Annie all the way back to the age of dinosaurs. Surrounded by prehistoric creatures, they'll have to explore their strange new world and figure out how to get home before dark."
-  },
-  {
-   "id": "post_63f1aba4-88fe-4b9f-b464-055a64c2d48c",
-   "title": "The most chilling true crime shows of 2026",
-   "date": "2026-08-11T22:35:00Z",
-   "tags": [
-    "today's pix"
-   ],
-   "brand": "today's pix",
-   "url": "https://newsletters.pix-media.com/p/the-most-chilling-true-crime-shows-of-2026",
-   "text": "The most chilling true crime shows of 2026 — Today's Pix\n\nEarlier this summer, Netflix's Maternal Instinct had everyone talking about its chilling depiction of a real COVID-era case. Now, a new season of Conversations with a Killer is landing this week. With the genre having a killer lineup this summer, we've rounded up the most fascinating true crime stories across TV, podcasts, and books.\n\nTHE MOST CHILLING TRUE CRIME SHOWS OF THE YEAR (SO FAR)\nTrue crime TV isn't just popular right now, it's absolutely dominating. These are the new shows that made viewers stay up way past their bedtime, one creepy episode at a time.\nConversations with a Killer: The Charles Manson Tapes — Joe Berlinger's docuseries returns for a new volume, tracing Charles Manson's rise as a cult leader through unreleased prison recordings, firsthand accounts, and archival footage most viewers have never seen. It's the franchise's darkest season yet, and the closest anyone's gotten to hearing Manson explain himself in his own words. Only on Netflix August 12.\n\nNEW & UNSETTLING TRUE CRIME PODCASTS\nFrom mysterious cold cases to shocking family secrets nobody saw coming, the best true crime podcasts of the year prove the genre still has new angles to explore.\nThe Idiot — For years, M. Gessen wrote about the world's worst people: dictators, terrorists, human rights abusers. Then their own cousin Allen got arrested for trying to have his ex-wife killed. Serial Productions' latest is the studio's funniest true crime podcast yet, and its most personal.\n\nPAGE-TURNERS: THE MOST ADDICTIVE TRUE CRIME BOOKS OF 2026\nThe best true crime writing turns real tragedy into something you can't put down without ever losing the human stakes.\nLondon Falling by Patrick Radden Keefe — Patrick Radden Keefe, the writer behind Say Nothing and Empire of Pain, tells the story of a London teenager who invented an entire identity as a Russian oligarch's son before he was found dead in the Thames. This devastating and spellbinding read is easily one of the biggest books of the year."
-  },
-  {
-   "id": "post_93c13c50-5a03-4b9a-aae1-010ccb5bb35a",
-   "title": "“A rollicking, hilarious tale of shipwreck, shenanigans and murder”",
-   "date": "2026-08-11T19:50:00Z",
-   "tags": [
-    "book pix"
-   ],
-   "brand": "book pix",
-   "url": "https://newsletters.pix-media.com/p/a-rollicking-hilarious-tale-of-shipwreck-shenanigans-and-murder",
-   "text": "\"A rollicking, hilarious tale of shipwreck, shenanigans and murder\" — Book Pix\nBy Genevieve, Senior Books Content Manager @ Pix\n\nToday's Book Pix is delightfully unhinged. From an NSFW rabbit hole to a shipwreck-fueled family drama, Karin Slaughter's newest page-turner, and a literary classic getting a very modern adaptation, today's picks are guaranteed to keep you on your toes.\n\nIS SENTIENT OBJECT SMUT HAVING A MOMENT?\nAs my colleagues and I cackled over all the early Wicker memes, I felt the need to point out that sentient object smut is an actual romance subgenre. And just like Wicker, they frequently serve a hefty dose of humor along with their spice.\nUnhinged by Vera Valentine — In this paranormal romance, a woman must trust the sentient front door that's secretly protected her for years when a deadly stalker threatens her life. As odd as it may sound, this book has a cult following: more than 10k reviews on Amazon and almost 30k on Goodreads. The door is actually a dryad shifter who gets stuck in door form, so there's a Greek mythology angle. Readers agree it is totally bonkers, yet somehow completely delightful.\n\nTHE BIG DEBUT — The Responsible Party by Claire Carusillo\nWhen a modern-day scandal and a decades-old murder collide, a canceled skincare influencer uncovers the wild history of the \"unsinkable\" women who came before her. Vulture calls this debut about an unforgettable family \"pleasurably busy and delightfully odd,\" while The New York Times hails it as \"a rollicking, hilarious tale of shipwreck, shenanigans and murder.\"\n\nTHRILLER SPOTLIGHT — The Secrets We Hide by Karin Slaughter\nSheriff Clifton is back in the next North Falls mystery from #1 New York Times bestselling author Karin Slaughter, the powerhouse behind The Good Daughter and the Will Trent series. Expect buried secrets, mounting suspicions, and plenty of twists as Clifton and her sister unravel what really happened to the Vickery family one terrible night. Freida McFadden: \"Few writers can balance pulse-pounding suspense and emotional truth as brilliantly as Karin Slaughter.\"\n\nPAGE TO SCREEN — My Brilliant Career\nA 125-year-old novel is getting a very 2026 glow-up. Premiering August 13 on Netflix, My Brilliant Career gives Miles Franklin's 1901 classic a wildly modern makeover, following aspiring writer Sybylla Melvyn (Philippa Northeast) as she chooses creative ambition over marriage and society's expectations in early 20th-century Australia. Created by an all-female team of writers, producers, and directors.\n\nBOOKWORLD\nBarack Obama is launching a podcast about his favorite books. This poet has a powerful idea about what reading can do. Heated Rivalry has cast its Troy and Harris.\nGuess the Book answer: Verity by Colleen Hoover — the adaptation starring Anne Hathaway, Dakota Johnson, and Josh Hartnett is less than two months away."
   }
  ]
 }
